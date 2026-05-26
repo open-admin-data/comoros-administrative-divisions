@@ -1,0 +1,143 @@
+[
+  {
+    "id": "KM31",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Djando",
+      "en": "Djando",
+      "slug": "djando-km31"
+    },
+    "code": {
+      "id": "KM31",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM3",
+      "level": 1,
+      "name": {
+        "local": "Mohéli (Mwali)",
+        "en": "Mohéli (Mwali)",
+        "slug": "mohli-mwali-km3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.357",
+      "lon": "43.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM32",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Fomboni",
+      "en": "Fomboni",
+      "slug": "fomboni-km32"
+    },
+    "code": {
+      "id": "KM32",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM3",
+      "level": 1,
+      "name": {
+        "local": "Mohéli (Mwali)",
+        "en": "Mohéli (Mwali)",
+        "slug": "mohli-mwali-km3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.295",
+      "lon": "43.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM33",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Nioumachioi",
+      "en": "Nioumachioi",
+      "slug": "nioumachioi-km33"
+    },
+    "code": {
+      "id": "KM33",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM3",
+      "level": 1,
+      "name": {
+        "local": "Mohéli (Mwali)",
+        "en": "Mohéli (Mwali)",
+        "slug": "mohli-mwali-km3"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.323",
+      "lon": "43.682"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

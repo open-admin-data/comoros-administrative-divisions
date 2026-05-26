@@ -1,0 +1,56 @@
+[
+  {
+    "id": "KM311",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djando",
+      "en": "Djando",
+      "slug": "djando-km311"
+    },
+    "code": {
+      "id": "KM311",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM31",
+      "level": 2,
+      "name": {
+        "local": "Djando",
+        "en": "Djando",
+        "slug": "djando-km31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM31",
+        "level": 2,
+        "name": {
+          "local": "Djando",
+          "en": "Djando",
+          "slug": "djando-km31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.357",
+      "lon": "43.815"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

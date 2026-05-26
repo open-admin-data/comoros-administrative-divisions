@@ -1,0 +1,47 @@
+{
+  "id": "KM21",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Hamahamet-Mboinkou",
+    "en": "Hamahamet-Mboinkou",
+    "slug": "hamahamet-mboinkou-km21"
+  },
+  "code": {
+    "id": "KM21",
+    "iso": null
+  },
+  "parent": {
+    "id": "KM2",
+    "level": 1,
+    "name": {
+      "local": "Grande Comore (Ngazidja)",
+      "en": "Grande Comore (Ngazidja)",
+      "slug": "grande-comore-ngazidja-km2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.482",
+    "lon": "43.374"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "KM28",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Oichili-Dimani",
+    "en": "Oichili-Dimani",
+    "slug": "oichili-dimani-km28"
+  },
+  "code": {
+    "id": "KM28",
+    "iso": null
+  },
+  "parent": {
+    "id": "KM2",
+    "level": 1,
+    "name": {
+      "local": "Grande Comore (Ngazidja)",
+      "en": "Grande Comore (Ngazidja)",
+      "slug": "grande-comore-ngazidja-km2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.657",
+    "lon": "43.369"
+  },
+  "metadata": {},
+  "source": {}
+}

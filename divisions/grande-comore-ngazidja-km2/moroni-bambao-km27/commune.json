@@ -1,0 +1,218 @@
+[
+  {
+    "id": "KM271",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambao Ya Hari",
+      "en": "Bambao Ya Hari",
+      "slug": "bambao-ya-hari-km271"
+    },
+    "code": {
+      "id": "KM271",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM27",
+      "level": 2,
+      "name": {
+        "local": "Moroni-Bambao",
+        "en": "Moroni-Bambao",
+        "slug": "moroni-bambao-km27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM27",
+        "level": 2,
+        "name": {
+          "local": "Moroni-Bambao",
+          "en": "Moroni-Bambao",
+          "slug": "moroni-bambao-km27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.765",
+      "lon": "43.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM272",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambao Ya Mboini",
+      "en": "Bambao Ya Mboini",
+      "slug": "bambao-ya-mboini-km272"
+    },
+    "code": {
+      "id": "KM272",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM27",
+      "level": 2,
+      "name": {
+        "local": "Moroni-Bambao",
+        "en": "Moroni-Bambao",
+        "slug": "moroni-bambao-km27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM27",
+        "level": 2,
+        "name": {
+          "local": "Moroni-Bambao",
+          "en": "Moroni-Bambao",
+          "slug": "moroni-bambao-km27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.761",
+      "lon": "43.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM273",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambao Yadjou",
+      "en": "Bambao Yadjou",
+      "slug": "bambao-yadjou-km273"
+    },
+    "code": {
+      "id": "KM273",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM27",
+      "level": 2,
+      "name": {
+        "local": "Moroni-Bambao",
+        "en": "Moroni-Bambao",
+        "slug": "moroni-bambao-km27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM27",
+        "level": 2,
+        "name": {
+          "local": "Moroni-Bambao",
+          "en": "Moroni-Bambao",
+          "slug": "moroni-bambao-km27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.733",
+      "lon": "43.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM274",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moroni",
+      "en": "Moroni",
+      "slug": "moroni-km274"
+    },
+    "code": {
+      "id": "KM274",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM27",
+      "level": 2,
+      "name": {
+        "local": "Moroni-Bambao",
+        "en": "Moroni-Bambao",
+        "slug": "moroni-bambao-km27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM27",
+        "level": 2,
+        "name": {
+          "local": "Moroni-Bambao",
+          "en": "Moroni-Bambao",
+          "slug": "moroni-bambao-km27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.704",
+      "lon": "43.258"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

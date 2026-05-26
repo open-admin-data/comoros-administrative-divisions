@@ -1,0 +1,56 @@
+[
+  {
+    "id": "KM291",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cratère du Karthala",
+      "en": "Cratère du Karthala",
+      "slug": "cratre-du-karthala-km291"
+    },
+    "code": {
+      "id": "KM291",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM29",
+      "level": 2,
+      "name": {
+        "local": "Kartala",
+        "en": "Kartala",
+        "slug": "kartala-km29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM29",
+        "level": 2,
+        "name": {
+          "local": "Kartala",
+          "en": "Kartala",
+          "slug": "kartala-km29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.764",
+      "lon": "43.368"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

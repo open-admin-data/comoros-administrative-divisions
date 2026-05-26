@@ -1,0 +1,47 @@
+{
+  "id": "KM32",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Fomboni",
+    "en": "Fomboni",
+    "slug": "fomboni-km32"
+  },
+  "code": {
+    "id": "KM32",
+    "iso": null
+  },
+  "parent": {
+    "id": "KM3",
+    "level": 1,
+    "name": {
+      "local": "Mohéli (Mwali)",
+      "en": "Mohéli (Mwali)",
+      "slug": "mohli-mwali-km3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KM3",
+      "level": 1,
+      "name": {
+        "local": "Mohéli (Mwali)",
+        "en": "Mohéli (Mwali)",
+        "slug": "mohli-mwali-km3"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.295",
+    "lon": "43.723"
+  },
+  "metadata": {},
+  "source": {}
+}

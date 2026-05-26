@@ -1,0 +1,164 @@
+[
+  {
+    "id": "KM241",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Domba",
+      "en": "Domba",
+      "slug": "domba-km241"
+    },
+    "code": {
+      "id": "KM241",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM24",
+      "level": 2,
+      "name": {
+        "local": "Mbadjini Est",
+        "en": "Mbadjini Est",
+        "slug": "mbadjini-est-km24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM24",
+        "level": 2,
+        "name": {
+          "local": "Mbadjini Est",
+          "en": "Mbadjini Est",
+          "slug": "mbadjini-est-km24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.776",
+      "lon": "43.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM242",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Itsahidi",
+      "en": "Itsahidi",
+      "slug": "itsahidi-km242"
+    },
+    "code": {
+      "id": "KM242",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM24",
+      "level": 2,
+      "name": {
+        "local": "Mbadjini Est",
+        "en": "Mbadjini Est",
+        "slug": "mbadjini-est-km24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM24",
+        "level": 2,
+        "name": {
+          "local": "Mbadjini Est",
+          "en": "Mbadjini Est",
+          "slug": "mbadjini-est-km24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.87",
+      "lon": "43.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM243",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pimba",
+      "en": "Pimba",
+      "slug": "pimba-km243"
+    },
+    "code": {
+      "id": "KM243",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM24",
+      "level": 2,
+      "name": {
+        "local": "Mbadjini Est",
+        "en": "Mbadjini Est",
+        "slug": "mbadjini-est-km24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM24",
+        "level": 2,
+        "name": {
+          "local": "Mbadjini Est",
+          "en": "Mbadjini Est",
+          "slug": "mbadjini-est-km24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.859",
+      "lon": "43.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

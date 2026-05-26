@@ -1,0 +1,272 @@
+[
+  {
+    "id": "KM121",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Adda",
+      "en": "Adda",
+      "slug": "adda-km121"
+    },
+    "code": {
+      "id": "KM121",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM12",
+      "level": 2,
+      "name": {
+        "local": "Mrémani",
+        "en": "Mrémani",
+        "slug": "mrmani-km12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM12",
+        "level": 2,
+        "name": {
+          "local": "Mrémani",
+          "en": "Mrémani",
+          "slug": "mrmani-km12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.306",
+      "lon": "44.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM122",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chaweni",
+      "en": "Chaweni",
+      "slug": "chaweni-km122"
+    },
+    "code": {
+      "id": "KM122",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM12",
+      "level": 2,
+      "name": {
+        "local": "Mrémani",
+        "en": "Mrémani",
+        "slug": "mrmani-km12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM12",
+        "level": 2,
+        "name": {
+          "local": "Mrémani",
+          "en": "Mrémani",
+          "slug": "mrmani-km12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.364",
+      "lon": "44.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM123",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mramani",
+      "en": "Mramani",
+      "slug": "mramani-km123"
+    },
+    "code": {
+      "id": "KM123",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM12",
+      "level": 2,
+      "name": {
+        "local": "Mrémani",
+        "en": "Mrémani",
+        "slug": "mrmani-km12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM12",
+        "level": 2,
+        "name": {
+          "local": "Mrémani",
+          "en": "Mrémani",
+          "slug": "mrmani-km12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.362",
+      "lon": "44.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM124",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mrémani",
+      "en": "Mrémani",
+      "slug": "mrmani-km124"
+    },
+    "code": {
+      "id": "KM124",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM12",
+      "level": 2,
+      "name": {
+        "local": "Mrémani",
+        "en": "Mrémani",
+        "slug": "mrmani-km12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM12",
+        "level": 2,
+        "name": {
+          "local": "Mrémani",
+          "en": "Mrémani",
+          "slug": "mrmani-km12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.329",
+      "lon": "44.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM125",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ongojou",
+      "en": "Ongojou",
+      "slug": "ongojou-km125"
+    },
+    "code": {
+      "id": "KM125",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM12",
+      "level": 2,
+      "name": {
+        "local": "Mrémani",
+        "en": "Mrémani",
+        "slug": "mrmani-km12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM12",
+        "level": 2,
+        "name": {
+          "local": "Mrémani",
+          "en": "Mrémani",
+          "slug": "mrmani-km12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.324",
+      "lon": "44.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,17 @@
+# Comoros Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Per-Island Data Files
+
+- [Anjouan (Ndzouani)](https://github.com/open-admin-data/comoros-administrative-divisions/blob/main/docs/llms-full/anjouan-ndzouani-km1.txt) — 5 prefectures, 20 communes
+- [Grande Comore (Ngazidja)](https://github.com/open-admin-data/comoros-administrative-divisions/blob/main/docs/llms-full/grande-comore-ngazidja-km2.txt) — 9 prefectures, 29 communes
+- [Mohéli (Mwali)](https://github.com/open-admin-data/comoros-administrative-divisions/blob/main/docs/llms-full/mohli-mwali-km3.txt) — 3 prefectures, 6 communes
+
+## Summary
+
+| Island | Prefectures | Communes | 
+|---|---|---|
+| Anjouan (Ndzouani) | 5 | 20 | 
+| Grande Comore (Ngazidja) | 9 | 29 | 
+| Mohéli (Mwali) | 3 | 6 | 

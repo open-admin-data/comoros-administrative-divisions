@@ -1,0 +1,164 @@
+[
+  {
+    "id": "KM141",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambao Mtrouni",
+      "en": "Bambao Mtrouni",
+      "slug": "bambao-mtrouni-km141"
+    },
+    "code": {
+      "id": "KM141",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM14",
+      "level": 2,
+      "name": {
+        "local": "Ouani",
+        "en": "Ouani",
+        "slug": "ouani-km14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM14",
+        "level": 2,
+        "name": {
+          "local": "Ouani",
+          "en": "Ouani",
+          "slug": "ouani-km14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.202",
+      "lon": "44.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM142",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bazimini",
+      "en": "Bazimini",
+      "slug": "bazimini-km142"
+    },
+    "code": {
+      "id": "KM142",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM14",
+      "level": 2,
+      "name": {
+        "local": "Ouani",
+        "en": "Ouani",
+        "slug": "ouani-km14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM14",
+        "level": 2,
+        "name": {
+          "local": "Ouani",
+          "en": "Ouani",
+          "slug": "ouani-km14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.178",
+      "lon": "44.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM143",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouani",
+      "en": "Ouani",
+      "slug": "ouani-km143"
+    },
+    "code": {
+      "id": "KM143",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM14",
+      "level": 2,
+      "name": {
+        "local": "Ouani",
+        "en": "Ouani",
+        "slug": "ouani-km14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM14",
+        "level": 2,
+        "name": {
+          "local": "Ouani",
+          "en": "Ouani",
+          "slug": "ouani-km14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.129",
+      "lon": "44.44"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

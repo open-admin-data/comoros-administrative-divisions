@@ -1,0 +1,30 @@
+{
+  "id": "KM3",
+  "level": 1,
+  "level_name": {
+    "local": "Île",
+    "en": "Island"
+  },
+  "name": {
+    "local": "Mohéli (Mwali)",
+    "en": "Mohéli (Mwali)",
+    "slug": "mohli-mwali-km3"
+  },
+  "code": {
+    "id": "KM3",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 3,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.32",
+    "lon": "43.721"
+  },
+  "metadata": {},
+  "source": {}
+}

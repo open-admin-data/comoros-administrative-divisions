@@ -1,0 +1,164 @@
+[
+  {
+    "id": "KM151",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moya",
+      "en": "Moya",
+      "slug": "moya-km151"
+    },
+    "code": {
+      "id": "KM151",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM15",
+      "level": 2,
+      "name": {
+        "local": "Sima",
+        "en": "Sima",
+        "slug": "sima-km15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM15",
+        "level": 2,
+        "name": {
+          "local": "Sima",
+          "en": "Sima",
+          "slug": "sima-km15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.278",
+      "lon": "44.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM152",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sima",
+      "en": "Sima",
+      "slug": "sima-km152"
+    },
+    "code": {
+      "id": "KM152",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM15",
+      "level": 2,
+      "name": {
+        "local": "Sima",
+        "en": "Sima",
+        "slug": "sima-km15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM15",
+        "level": 2,
+        "name": {
+          "local": "Sima",
+          "en": "Sima",
+          "slug": "sima-km15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.198",
+      "lon": "44.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM153",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vouani",
+      "en": "Vouani",
+      "slug": "vouani-km153"
+    },
+    "code": {
+      "id": "KM153",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM15",
+      "level": 2,
+      "name": {
+        "local": "Sima",
+        "en": "Sima",
+        "slug": "sima-km15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM15",
+        "level": 2,
+        "name": {
+          "local": "Sima",
+          "en": "Sima",
+          "slug": "sima-km15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.241",
+      "lon": "44.391"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+KM31,Djando,Djando,djando-km31,KM31,1,-12.357,43.815
+KM32,Fomboni,Fomboni,fomboni-km32,KM32,3,-12.295,43.723
+KM33,Nioumachioi,Nioumachioi,nioumachioi-km33,KM33,2,-12.323,43.682

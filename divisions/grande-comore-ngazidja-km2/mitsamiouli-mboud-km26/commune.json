@@ -1,0 +1,326 @@
+[
+  {
+    "id": "KM261",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cembenoi Lac Salé",
+      "en": "Cembenoi Lac Salé",
+      "slug": "cembenoi-lac-sal-km261"
+    },
+    "code": {
+      "id": "KM261",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.389",
+      "lon": "43.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM262",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cembenoi Sada Djoulamlima",
+      "en": "Cembenoi Sada Djoulamlima",
+      "slug": "cembenoi-sada-djoulamlima-km262"
+    },
+    "code": {
+      "id": "KM262",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.408",
+      "lon": "43.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM263",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mitsamiouli",
+      "en": "Mitsamiouli",
+      "slug": "mitsamiouli-km263"
+    },
+    "code": {
+      "id": "KM263",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.398",
+      "lon": "43.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM264",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyuma Komo",
+      "en": "Nyuma Komo",
+      "slug": "nyuma-komo-km264"
+    },
+    "code": {
+      "id": "KM264",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.409",
+      "lon": "43.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM265",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyumamro Kiblani",
+      "en": "Nyumamro Kiblani",
+      "slug": "nyumamro-kiblani-km265"
+    },
+    "code": {
+      "id": "KM265",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.441",
+      "lon": "43.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM266",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyumamro Souheili",
+      "en": "Nyumamro Souheili",
+      "slug": "nyumamro-souheili-km266"
+    },
+    "code": {
+      "id": "KM266",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.495",
+      "lon": "43.312"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

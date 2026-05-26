@@ -1,0 +1,218 @@
+[
+  {
+    "id": "KM131",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bandrani Ya Chironkamba",
+      "en": "Bandrani Ya Chironkamba",
+      "slug": "bandrani-ya-chironkamba-km131"
+    },
+    "code": {
+      "id": "KM131",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM13",
+      "level": 2,
+      "name": {
+        "local": "Mutsamudu",
+        "en": "Mutsamudu",
+        "slug": "mutsamudu-km13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM13",
+        "level": 2,
+        "name": {
+          "local": "Mutsamudu",
+          "en": "Mutsamudu",
+          "slug": "mutsamudu-km13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.2",
+      "lon": "44.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM132",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bandrani Ya Mtsangani",
+      "en": "Bandrani Ya Mtsangani",
+      "slug": "bandrani-ya-mtsangani-km132"
+    },
+    "code": {
+      "id": "KM132",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM13",
+      "level": 2,
+      "name": {
+        "local": "Mutsamudu",
+        "en": "Mutsamudu",
+        "slug": "mutsamudu-km13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM13",
+        "level": 2,
+        "name": {
+          "local": "Mutsamudu",
+          "en": "Mutsamudu",
+          "slug": "mutsamudu-km13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.201",
+      "lon": "44.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM133",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mirontsi",
+      "en": "Mirontsi",
+      "slug": "mirontsi-km133"
+    },
+    "code": {
+      "id": "KM133",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM13",
+      "level": 2,
+      "name": {
+        "local": "Mutsamudu",
+        "en": "Mutsamudu",
+        "slug": "mutsamudu-km13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM13",
+        "level": 2,
+        "name": {
+          "local": "Mutsamudu",
+          "en": "Mutsamudu",
+          "slug": "mutsamudu-km13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.164",
+      "lon": "44.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM134",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mutsamudu",
+      "en": "Mutsamudu",
+      "slug": "mutsamudu-km134"
+    },
+    "code": {
+      "id": "KM134",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM13",
+      "level": 2,
+      "name": {
+        "local": "Mutsamudu",
+        "en": "Mutsamudu",
+        "slug": "mutsamudu-km13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM13",
+        "level": 2,
+        "name": {
+          "local": "Mutsamudu",
+          "en": "Mutsamudu",
+          "slug": "mutsamudu-km13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.189",
+      "lon": "44.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

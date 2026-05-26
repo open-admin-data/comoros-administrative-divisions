@@ -1,0 +1,425 @@
+[
+  {
+    "id": "KM21",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Hamahamet-Mboinkou",
+      "en": "Hamahamet-Mboinkou",
+      "slug": "hamahamet-mboinkou-km21"
+    },
+    "code": {
+      "id": "KM21",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.482",
+      "lon": "43.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM22",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Hambou",
+      "en": "Hambou",
+      "slug": "hambou-km22"
+    },
+    "code": {
+      "id": "KM22",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.815",
+      "lon": "43.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM23",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Itsandra-Hamanvou",
+      "en": "Itsandra-Hamanvou",
+      "slug": "itsandra-hamanvou-km23"
+    },
+    "code": {
+      "id": "KM23",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.611",
+      "lon": "43.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM29",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kartala",
+      "en": "Kartala",
+      "slug": "kartala-km29"
+    },
+    "code": {
+      "id": "KM29",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.764",
+      "lon": "43.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM24",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mbadjini Est",
+      "en": "Mbadjini Est",
+      "slug": "mbadjini-est-km24"
+    },
+    "code": {
+      "id": "KM24",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.838",
+      "lon": "43.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM25",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mbadjini Ouest",
+      "en": "Mbadjini Ouest",
+      "slug": "mbadjini-ouest-km25"
+    },
+    "code": {
+      "id": "KM25",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.847",
+      "lon": "43.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM26",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mitsamiouli-Mboudé",
+      "en": "Mitsamiouli-Mboudé",
+      "slug": "mitsamiouli-mboud-km26"
+    },
+    "code": {
+      "id": "KM26",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.447",
+      "lon": "43.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM27",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Moroni-Bambao",
+      "en": "Moroni-Bambao",
+      "slug": "moroni-bambao-km27"
+    },
+    "code": {
+      "id": "KM27",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.742",
+      "lon": "43.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM28",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Oichili-Dimani",
+      "en": "Oichili-Dimani",
+      "slug": "oichili-dimani-km28"
+    },
+    "code": {
+      "id": "KM28",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.657",
+      "lon": "43.369"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

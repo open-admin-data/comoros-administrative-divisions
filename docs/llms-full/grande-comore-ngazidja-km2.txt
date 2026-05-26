@@ -1,0 +1,170 @@
+# Grande Comore (Ngazidja) — Comoros Administrative Divisions
+
+> 9 prefectures, 29 communes
+> Code: KM2
+> Coordinates: -11.652, 43.331
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Prefectures
+
+### Hamahamet-Mboinkou
+
+Code: KM21, Coordinates: -11.482, 43.374
+Communes: 3
+
+#### Mboinkou
+
+Code: KM211, Coordinates: -11.431, 43.387
+
+#### Nyuma Mro
+
+Code: KM212, Coordinates: -11.472, 43.376
+
+#### Nyuma Msiru
+
+Code: KM213, Coordinates: -11.522, 43.379
+
+### Hambou
+
+Code: KM22, Coordinates: -11.815, 43.315
+Communes: 2
+
+#### Djoumoipangua
+
+Code: KM221, Coordinates: -11.806, 43.345
+
+#### Tsinimoipangua
+
+Code: KM222, Coordinates: -11.81, 43.296
+
+### Itsandra-Hamanvou
+
+Code: KM23, Coordinates: -11.611, 43.288
+Communes: 5
+
+#### Bangaani
+
+Code: KM231, Coordinates: -11.687, 43.306
+
+#### Djoumoichongo
+
+Code: KM232, Coordinates: -11.651, 43.306
+
+#### Hamanvou
+
+Code: KM233, Coordinates: -11.555, 43.306
+
+#### Isahari
+
+Code: KM234, Coordinates: -11.653, 43.27
+
+#### Mbadani
+
+Code: KM235, Coordinates: -11.621, 43.288
+
+### Kartala
+
+Code: KM29, Coordinates: -11.764, 43.368
+Communes: 1
+
+#### Cratère du Karthala
+
+Code: KM291, Coordinates: -11.764, 43.368
+
+### Mbadjini Est
+
+Code: KM24, Coordinates: -11.838, 43.455
+Communes: 3
+
+#### Domba
+
+Code: KM241, Coordinates: -11.776, 43.42
+
+#### Itsahidi
+
+Code: KM242, Coordinates: -11.87, 43.49
+
+#### Pimba
+
+Code: KM243, Coordinates: -11.859, 43.453
+
+### Mbadjini Ouest
+
+Code: KM25, Coordinates: -11.847, 43.398
+Communes: 2
+
+#### Ngouengoe
+
+Code: KM251, Coordinates: -11.83, 43.378
+
+#### Nioumagama
+
+Code: KM252, Coordinates: -11.839, 43.415
+
+### Mitsamiouli-Mboudé
+
+Code: KM26, Coordinates: -11.447, 43.311
+Communes: 6
+
+#### Cembenoi Lac Salé
+
+Code: KM261, Coordinates: -11.389, 43.378
+
+#### Cembenoi Sada Djoulamlima
+
+Code: KM262, Coordinates: -11.408, 43.35
+
+#### Mitsamiouli
+
+Code: KM263, Coordinates: -11.398, 43.285
+
+#### Nyuma Komo
+
+Code: KM264, Coordinates: -11.409, 43.31
+
+#### Nyumamro Kiblani
+
+Code: KM265, Coordinates: -11.441, 43.307
+
+#### Nyumamro Souheili
+
+Code: KM266, Coordinates: -11.495, 43.312
+
+### Moroni-Bambao
+
+Code: KM27, Coordinates: -11.742, 43.294
+Communes: 4
+
+#### Bambao Ya Hari
+
+Code: KM271, Coordinates: -11.765, 43.307
+
+#### Bambao Ya Mboini
+
+Code: KM272, Coordinates: -11.761, 43.247
+
+#### Bambao Yadjou
+
+Code: KM273, Coordinates: -11.733, 43.305
+
+#### Moroni
+
+Code: KM274, Coordinates: -11.704, 43.258
+
+### Oichili-Dimani
+
+Code: KM28, Coordinates: -11.657, 43.369
+Communes: 3
+
+#### Dimani
+
+Code: KM281, Coordinates: -11.71, 43.392
+
+#### Oichili Yadjou
+
+Code: KM282, Coordinates: -11.654, 43.367
+
+#### Oichili Yamboini
+
+Code: KM283, Coordinates: -11.597, 43.358
+

@@ -1,0 +1,30 @@
+{
+  "id": "KM1",
+  "level": 1,
+  "level_name": {
+    "local": "Île",
+    "en": "Island"
+  },
+  "name": {
+    "local": "Anjouan (Ndzouani)",
+    "en": "Anjouan (Ndzouani)",
+    "slug": "anjouan-ndzouani-km1"
+  },
+  "code": {
+    "id": "KM1",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 5,
+    "commune": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.226",
+    "lon": "44.411"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "KM29",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Kartala",
+    "en": "Kartala",
+    "slug": "kartala-km29"
+  },
+  "code": {
+    "id": "KM29",
+    "iso": null
+  },
+  "parent": {
+    "id": "KM2",
+    "level": 1,
+    "name": {
+      "local": "Grande Comore (Ngazidja)",
+      "en": "Grande Comore (Ngazidja)",
+      "slug": "grande-comore-ngazidja-km2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.764",
+    "lon": "43.368"
+  },
+  "metadata": {},
+  "source": {}
+}

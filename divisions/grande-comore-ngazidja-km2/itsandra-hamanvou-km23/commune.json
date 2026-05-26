@@ -1,0 +1,272 @@
+[
+  {
+    "id": "KM231",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bangaani",
+      "en": "Bangaani",
+      "slug": "bangaani-km231"
+    },
+    "code": {
+      "id": "KM231",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM23",
+      "level": 2,
+      "name": {
+        "local": "Itsandra-Hamanvou",
+        "en": "Itsandra-Hamanvou",
+        "slug": "itsandra-hamanvou-km23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM23",
+        "level": 2,
+        "name": {
+          "local": "Itsandra-Hamanvou",
+          "en": "Itsandra-Hamanvou",
+          "slug": "itsandra-hamanvou-km23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.687",
+      "lon": "43.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM232",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djoumoichongo",
+      "en": "Djoumoichongo",
+      "slug": "djoumoichongo-km232"
+    },
+    "code": {
+      "id": "KM232",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM23",
+      "level": 2,
+      "name": {
+        "local": "Itsandra-Hamanvou",
+        "en": "Itsandra-Hamanvou",
+        "slug": "itsandra-hamanvou-km23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM23",
+        "level": 2,
+        "name": {
+          "local": "Itsandra-Hamanvou",
+          "en": "Itsandra-Hamanvou",
+          "slug": "itsandra-hamanvou-km23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.651",
+      "lon": "43.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM233",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hamanvou",
+      "en": "Hamanvou",
+      "slug": "hamanvou-km233"
+    },
+    "code": {
+      "id": "KM233",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM23",
+      "level": 2,
+      "name": {
+        "local": "Itsandra-Hamanvou",
+        "en": "Itsandra-Hamanvou",
+        "slug": "itsandra-hamanvou-km23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM23",
+        "level": 2,
+        "name": {
+          "local": "Itsandra-Hamanvou",
+          "en": "Itsandra-Hamanvou",
+          "slug": "itsandra-hamanvou-km23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.555",
+      "lon": "43.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM234",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Isahari",
+      "en": "Isahari",
+      "slug": "isahari-km234"
+    },
+    "code": {
+      "id": "KM234",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM23",
+      "level": 2,
+      "name": {
+        "local": "Itsandra-Hamanvou",
+        "en": "Itsandra-Hamanvou",
+        "slug": "itsandra-hamanvou-km23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM23",
+        "level": 2,
+        "name": {
+          "local": "Itsandra-Hamanvou",
+          "en": "Itsandra-Hamanvou",
+          "slug": "itsandra-hamanvou-km23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.653",
+      "lon": "43.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM235",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mbadani",
+      "en": "Mbadani",
+      "slug": "mbadani-km235"
+    },
+    "code": {
+      "id": "KM235",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM23",
+      "level": 2,
+      "name": {
+        "local": "Itsandra-Hamanvou",
+        "en": "Itsandra-Hamanvou",
+        "slug": "itsandra-hamanvou-km23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM23",
+        "level": 2,
+        "name": {
+          "local": "Itsandra-Hamanvou",
+          "en": "Itsandra-Hamanvou",
+          "slug": "itsandra-hamanvou-km23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.621",
+      "lon": "43.288"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

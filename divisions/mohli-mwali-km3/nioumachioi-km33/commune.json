@@ -1,0 +1,110 @@
+[
+  {
+    "id": "KM331",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mlédjélé",
+      "en": "Mlédjélé",
+      "slug": "mldjl-km331"
+    },
+    "code": {
+      "id": "KM331",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM33",
+      "level": 2,
+      "name": {
+        "local": "Nioumachioi",
+        "en": "Nioumachioi",
+        "slug": "nioumachioi-km33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM33",
+        "level": 2,
+        "name": {
+          "local": "Nioumachioi",
+          "en": "Nioumachioi",
+          "slug": "nioumachioi-km33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.349",
+      "lon": "43.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM332",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moimbao",
+      "en": "Moimbao",
+      "slug": "moimbao-km332"
+    },
+    "code": {
+      "id": "KM332",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM33",
+      "level": 2,
+      "name": {
+        "local": "Nioumachioi",
+        "en": "Nioumachioi",
+        "slug": "nioumachioi-km33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM33",
+        "level": 2,
+        "name": {
+          "local": "Nioumachioi",
+          "en": "Nioumachioi",
+          "slug": "nioumachioi-km33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.313",
+      "lon": "43.666"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

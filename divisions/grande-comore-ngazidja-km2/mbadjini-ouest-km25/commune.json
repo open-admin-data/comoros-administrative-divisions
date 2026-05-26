@@ -1,0 +1,110 @@
+[
+  {
+    "id": "KM251",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngouengoe",
+      "en": "Ngouengoe",
+      "slug": "ngouengoe-km251"
+    },
+    "code": {
+      "id": "KM251",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM25",
+      "level": 2,
+      "name": {
+        "local": "Mbadjini Ouest",
+        "en": "Mbadjini Ouest",
+        "slug": "mbadjini-ouest-km25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM25",
+        "level": 2,
+        "name": {
+          "local": "Mbadjini Ouest",
+          "en": "Mbadjini Ouest",
+          "slug": "mbadjini-ouest-km25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.83",
+      "lon": "43.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM252",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nioumagama",
+      "en": "Nioumagama",
+      "slug": "nioumagama-km252"
+    },
+    "code": {
+      "id": "KM252",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM25",
+      "level": 2,
+      "name": {
+        "local": "Mbadjini Ouest",
+        "en": "Mbadjini Ouest",
+        "slug": "mbadjini-ouest-km25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM25",
+        "level": 2,
+        "name": {
+          "local": "Mbadjini Ouest",
+          "en": "Mbadjini Ouest",
+          "slug": "mbadjini-ouest-km25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.839",
+      "lon": "43.415"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

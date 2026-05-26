@@ -1,0 +1,47 @@
+{
+  "id": "KM31",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Djando",
+    "en": "Djando",
+    "slug": "djando-km31"
+  },
+  "code": {
+    "id": "KM31",
+    "iso": null
+  },
+  "parent": {
+    "id": "KM3",
+    "level": 1,
+    "name": {
+      "local": "Mohéli (Mwali)",
+      "en": "Mohéli (Mwali)",
+      "slug": "mohli-mwali-km3"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KM3",
+      "level": 1,
+      "name": {
+        "local": "Mohéli (Mwali)",
+        "en": "Mohéli (Mwali)",
+        "slug": "mohli-mwali-km3"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.357",
+    "lon": "43.815"
+  },
+  "metadata": {},
+  "source": {}
+}

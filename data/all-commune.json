@@ -1,0 +1,2972 @@
+[
+  {
+    "id": "KM121",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Adda",
+      "en": "Adda",
+      "slug": "adda-km121"
+    },
+    "code": {
+      "id": "KM121",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM12",
+      "level": 2,
+      "name": {
+        "local": "Mrémani",
+        "en": "Mrémani",
+        "slug": "mrmani-km12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM12",
+        "level": 2,
+        "name": {
+          "local": "Mrémani",
+          "en": "Mrémani",
+          "slug": "mrmani-km12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.306",
+      "lon": "44.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM141",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambao Mtrouni",
+      "en": "Bambao Mtrouni",
+      "slug": "bambao-mtrouni-km141"
+    },
+    "code": {
+      "id": "KM141",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM14",
+      "level": 2,
+      "name": {
+        "local": "Ouani",
+        "en": "Ouani",
+        "slug": "ouani-km14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM14",
+        "level": 2,
+        "name": {
+          "local": "Ouani",
+          "en": "Ouani",
+          "slug": "ouani-km14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.202",
+      "lon": "44.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM111",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambao Mtsanga",
+      "en": "Bambao Mtsanga",
+      "slug": "bambao-mtsanga-km111"
+    },
+    "code": {
+      "id": "KM111",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM11",
+      "level": 2,
+      "name": {
+        "local": "Domoni",
+        "en": "Domoni",
+        "slug": "domoni-km11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM11",
+        "level": 2,
+        "name": {
+          "local": "Domoni",
+          "en": "Domoni",
+          "slug": "domoni-km11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.187",
+      "lon": "44.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM271",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambao Ya Hari",
+      "en": "Bambao Ya Hari",
+      "slug": "bambao-ya-hari-km271"
+    },
+    "code": {
+      "id": "KM271",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM27",
+      "level": 2,
+      "name": {
+        "local": "Moroni-Bambao",
+        "en": "Moroni-Bambao",
+        "slug": "moroni-bambao-km27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM27",
+        "level": 2,
+        "name": {
+          "local": "Moroni-Bambao",
+          "en": "Moroni-Bambao",
+          "slug": "moroni-bambao-km27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.765",
+      "lon": "43.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM272",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambao Ya Mboini",
+      "en": "Bambao Ya Mboini",
+      "slug": "bambao-ya-mboini-km272"
+    },
+    "code": {
+      "id": "KM272",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM27",
+      "level": 2,
+      "name": {
+        "local": "Moroni-Bambao",
+        "en": "Moroni-Bambao",
+        "slug": "moroni-bambao-km27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM27",
+        "level": 2,
+        "name": {
+          "local": "Moroni-Bambao",
+          "en": "Moroni-Bambao",
+          "slug": "moroni-bambao-km27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.761",
+      "lon": "43.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM273",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambao Yadjou",
+      "en": "Bambao Yadjou",
+      "slug": "bambao-yadjou-km273"
+    },
+    "code": {
+      "id": "KM273",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM27",
+      "level": 2,
+      "name": {
+        "local": "Moroni-Bambao",
+        "en": "Moroni-Bambao",
+        "slug": "moroni-bambao-km27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM27",
+        "level": 2,
+        "name": {
+          "local": "Moroni-Bambao",
+          "en": "Moroni-Bambao",
+          "slug": "moroni-bambao-km27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.733",
+      "lon": "43.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM131",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bandrani Ya Chironkamba",
+      "en": "Bandrani Ya Chironkamba",
+      "slug": "bandrani-ya-chironkamba-km131"
+    },
+    "code": {
+      "id": "KM131",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM13",
+      "level": 2,
+      "name": {
+        "local": "Mutsamudu",
+        "en": "Mutsamudu",
+        "slug": "mutsamudu-km13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM13",
+        "level": 2,
+        "name": {
+          "local": "Mutsamudu",
+          "en": "Mutsamudu",
+          "slug": "mutsamudu-km13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.2",
+      "lon": "44.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM132",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bandrani Ya Mtsangani",
+      "en": "Bandrani Ya Mtsangani",
+      "slug": "bandrani-ya-mtsangani-km132"
+    },
+    "code": {
+      "id": "KM132",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM13",
+      "level": 2,
+      "name": {
+        "local": "Mutsamudu",
+        "en": "Mutsamudu",
+        "slug": "mutsamudu-km13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM13",
+        "level": 2,
+        "name": {
+          "local": "Mutsamudu",
+          "en": "Mutsamudu",
+          "slug": "mutsamudu-km13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.201",
+      "lon": "44.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM231",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bangaani",
+      "en": "Bangaani",
+      "slug": "bangaani-km231"
+    },
+    "code": {
+      "id": "KM231",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM23",
+      "level": 2,
+      "name": {
+        "local": "Itsandra-Hamanvou",
+        "en": "Itsandra-Hamanvou",
+        "slug": "itsandra-hamanvou-km23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM23",
+        "level": 2,
+        "name": {
+          "local": "Itsandra-Hamanvou",
+          "en": "Itsandra-Hamanvou",
+          "slug": "itsandra-hamanvou-km23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.687",
+      "lon": "43.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM142",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bazimini",
+      "en": "Bazimini",
+      "slug": "bazimini-km142"
+    },
+    "code": {
+      "id": "KM142",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM14",
+      "level": 2,
+      "name": {
+        "local": "Ouani",
+        "en": "Ouani",
+        "slug": "ouani-km14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM14",
+        "level": 2,
+        "name": {
+          "local": "Ouani",
+          "en": "Ouani",
+          "slug": "ouani-km14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.178",
+      "lon": "44.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM261",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cembenoi Lac Salé",
+      "en": "Cembenoi Lac Salé",
+      "slug": "cembenoi-lac-sal-km261"
+    },
+    "code": {
+      "id": "KM261",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.389",
+      "lon": "43.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM262",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cembenoi Sada Djoulamlima",
+      "en": "Cembenoi Sada Djoulamlima",
+      "slug": "cembenoi-sada-djoulamlima-km262"
+    },
+    "code": {
+      "id": "KM262",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.408",
+      "lon": "43.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM122",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chaweni",
+      "en": "Chaweni",
+      "slug": "chaweni-km122"
+    },
+    "code": {
+      "id": "KM122",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM12",
+      "level": 2,
+      "name": {
+        "local": "Mrémani",
+        "en": "Mrémani",
+        "slug": "mrmani-km12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM12",
+        "level": 2,
+        "name": {
+          "local": "Mrémani",
+          "en": "Mrémani",
+          "slug": "mrmani-km12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.364",
+      "lon": "44.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM291",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cratère du Karthala",
+      "en": "Cratère du Karthala",
+      "slug": "cratre-du-karthala-km291"
+    },
+    "code": {
+      "id": "KM291",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM29",
+      "level": 2,
+      "name": {
+        "local": "Kartala",
+        "en": "Kartala",
+        "slug": "kartala-km29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM29",
+        "level": 2,
+        "name": {
+          "local": "Kartala",
+          "en": "Kartala",
+          "slug": "kartala-km29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.764",
+      "lon": "43.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM281",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dimani",
+      "en": "Dimani",
+      "slug": "dimani-km281"
+    },
+    "code": {
+      "id": "KM281",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM28",
+      "level": 2,
+      "name": {
+        "local": "Oichili-Dimani",
+        "en": "Oichili-Dimani",
+        "slug": "oichili-dimani-km28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM28",
+        "level": 2,
+        "name": {
+          "local": "Oichili-Dimani",
+          "en": "Oichili-Dimani",
+          "slug": "oichili-dimani-km28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.71",
+      "lon": "43.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM311",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djando",
+      "en": "Djando",
+      "slug": "djando-km311"
+    },
+    "code": {
+      "id": "KM311",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM31",
+      "level": 2,
+      "name": {
+        "local": "Djando",
+        "en": "Djando",
+        "slug": "djando-km31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM31",
+        "level": 2,
+        "name": {
+          "local": "Djando",
+          "en": "Djando",
+          "slug": "djando-km31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.357",
+      "lon": "43.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM232",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djoumoichongo",
+      "en": "Djoumoichongo",
+      "slug": "djoumoichongo-km232"
+    },
+    "code": {
+      "id": "KM232",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM23",
+      "level": 2,
+      "name": {
+        "local": "Itsandra-Hamanvou",
+        "en": "Itsandra-Hamanvou",
+        "slug": "itsandra-hamanvou-km23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM23",
+        "level": 2,
+        "name": {
+          "local": "Itsandra-Hamanvou",
+          "en": "Itsandra-Hamanvou",
+          "slug": "itsandra-hamanvou-km23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.651",
+      "lon": "43.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM221",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djoumoipangua",
+      "en": "Djoumoipangua",
+      "slug": "djoumoipangua-km221"
+    },
+    "code": {
+      "id": "KM221",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM22",
+      "level": 2,
+      "name": {
+        "local": "Hambou",
+        "en": "Hambou",
+        "slug": "hambou-km22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM22",
+        "level": 2,
+        "name": {
+          "local": "Hambou",
+          "en": "Hambou",
+          "slug": "hambou-km22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.806",
+      "lon": "43.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM241",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Domba",
+      "en": "Domba",
+      "slug": "domba-km241"
+    },
+    "code": {
+      "id": "KM241",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM24",
+      "level": 2,
+      "name": {
+        "local": "Mbadjini Est",
+        "en": "Mbadjini Est",
+        "slug": "mbadjini-est-km24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM24",
+        "level": 2,
+        "name": {
+          "local": "Mbadjini Est",
+          "en": "Mbadjini Est",
+          "slug": "mbadjini-est-km24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.776",
+      "lon": "43.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM112",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Domoni",
+      "en": "Domoni",
+      "slug": "domoni-km112"
+    },
+    "code": {
+      "id": "KM112",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM11",
+      "level": 2,
+      "name": {
+        "local": "Domoni",
+        "en": "Domoni",
+        "slug": "domoni-km11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM11",
+        "level": 2,
+        "name": {
+          "local": "Domoni",
+          "en": "Domoni",
+          "slug": "domoni-km11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.257",
+      "lon": "44.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM321",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fomboni",
+      "en": "Fomboni",
+      "slug": "fomboni-km321"
+    },
+    "code": {
+      "id": "KM321",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM32",
+      "level": 2,
+      "name": {
+        "local": "Fomboni",
+        "en": "Fomboni",
+        "slug": "fomboni-km32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM32",
+        "level": 2,
+        "name": {
+          "local": "Fomboni",
+          "en": "Fomboni",
+          "slug": "fomboni-km32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.298",
+      "lon": "43.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM233",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hamanvou",
+      "en": "Hamanvou",
+      "slug": "hamanvou-km233"
+    },
+    "code": {
+      "id": "KM233",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM23",
+      "level": 2,
+      "name": {
+        "local": "Itsandra-Hamanvou",
+        "en": "Itsandra-Hamanvou",
+        "slug": "itsandra-hamanvou-km23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM23",
+        "level": 2,
+        "name": {
+          "local": "Itsandra-Hamanvou",
+          "en": "Itsandra-Hamanvou",
+          "slug": "itsandra-hamanvou-km23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.555",
+      "lon": "43.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM234",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Isahari",
+      "en": "Isahari",
+      "slug": "isahari-km234"
+    },
+    "code": {
+      "id": "KM234",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM23",
+      "level": 2,
+      "name": {
+        "local": "Itsandra-Hamanvou",
+        "en": "Itsandra-Hamanvou",
+        "slug": "itsandra-hamanvou-km23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM23",
+        "level": 2,
+        "name": {
+          "local": "Itsandra-Hamanvou",
+          "en": "Itsandra-Hamanvou",
+          "slug": "itsandra-hamanvou-km23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.653",
+      "lon": "43.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM242",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Itsahidi",
+      "en": "Itsahidi",
+      "slug": "itsahidi-km242"
+    },
+    "code": {
+      "id": "KM242",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM24",
+      "level": 2,
+      "name": {
+        "local": "Mbadjini Est",
+        "en": "Mbadjini Est",
+        "slug": "mbadjini-est-km24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM24",
+        "level": 2,
+        "name": {
+          "local": "Mbadjini Est",
+          "en": "Mbadjini Est",
+          "slug": "mbadjini-est-km24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.87",
+      "lon": "43.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM113",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Jimlimé",
+      "en": "Jimlimé",
+      "slug": "jimlim-km113"
+    },
+    "code": {
+      "id": "KM113",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM11",
+      "level": 2,
+      "name": {
+        "local": "Domoni",
+        "en": "Domoni",
+        "slug": "domoni-km11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM11",
+        "level": 2,
+        "name": {
+          "local": "Domoni",
+          "en": "Domoni",
+          "slug": "domoni-km11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.115",
+      "lon": "44.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM114",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koni",
+      "en": "Koni",
+      "slug": "koni-km114"
+    },
+    "code": {
+      "id": "KM114",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM11",
+      "level": 2,
+      "name": {
+        "local": "Domoni",
+        "en": "Domoni",
+        "slug": "domoni-km11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM11",
+        "level": 2,
+        "name": {
+          "local": "Domoni",
+          "en": "Domoni",
+          "slug": "domoni-km11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.228",
+      "lon": "44.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM235",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mbadani",
+      "en": "Mbadani",
+      "slug": "mbadani-km235"
+    },
+    "code": {
+      "id": "KM235",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM23",
+      "level": 2,
+      "name": {
+        "local": "Itsandra-Hamanvou",
+        "en": "Itsandra-Hamanvou",
+        "slug": "itsandra-hamanvou-km23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM23",
+        "level": 2,
+        "name": {
+          "local": "Itsandra-Hamanvou",
+          "en": "Itsandra-Hamanvou",
+          "slug": "itsandra-hamanvou-km23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.621",
+      "lon": "43.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM211",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mboinkou",
+      "en": "Mboinkou",
+      "slug": "mboinkou-km211"
+    },
+    "code": {
+      "id": "KM211",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM21",
+      "level": 2,
+      "name": {
+        "local": "Hamahamet-Mboinkou",
+        "en": "Hamahamet-Mboinkou",
+        "slug": "hamahamet-mboinkou-km21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM21",
+        "level": 2,
+        "name": {
+          "local": "Hamahamet-Mboinkou",
+          "en": "Hamahamet-Mboinkou",
+          "slug": "hamahamet-mboinkou-km21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.431",
+      "lon": "43.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM133",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mirontsi",
+      "en": "Mirontsi",
+      "slug": "mirontsi-km133"
+    },
+    "code": {
+      "id": "KM133",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM13",
+      "level": 2,
+      "name": {
+        "local": "Mutsamudu",
+        "en": "Mutsamudu",
+        "slug": "mutsamudu-km13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM13",
+        "level": 2,
+        "name": {
+          "local": "Mutsamudu",
+          "en": "Mutsamudu",
+          "slug": "mutsamudu-km13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.164",
+      "lon": "44.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM263",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mitsamiouli",
+      "en": "Mitsamiouli",
+      "slug": "mitsamiouli-km263"
+    },
+    "code": {
+      "id": "KM263",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.398",
+      "lon": "43.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM331",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mlédjélé",
+      "en": "Mlédjélé",
+      "slug": "mldjl-km331"
+    },
+    "code": {
+      "id": "KM331",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM33",
+      "level": 2,
+      "name": {
+        "local": "Nioumachioi",
+        "en": "Nioumachioi",
+        "slug": "nioumachioi-km33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM33",
+        "level": 2,
+        "name": {
+          "local": "Nioumachioi",
+          "en": "Nioumachioi",
+          "slug": "nioumachioi-km33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.349",
+      "lon": "43.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM322",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moili Mdjini",
+      "en": "Moili Mdjini",
+      "slug": "moili-mdjini-km322"
+    },
+    "code": {
+      "id": "KM322",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM32",
+      "level": 2,
+      "name": {
+        "local": "Fomboni",
+        "en": "Fomboni",
+        "slug": "fomboni-km32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM32",
+        "level": 2,
+        "name": {
+          "local": "Fomboni",
+          "en": "Fomboni",
+          "slug": "fomboni-km32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.314",
+      "lon": "43.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM332",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moimbao",
+      "en": "Moimbao",
+      "slug": "moimbao-km332"
+    },
+    "code": {
+      "id": "KM332",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM33",
+      "level": 2,
+      "name": {
+        "local": "Nioumachioi",
+        "en": "Nioumachioi",
+        "slug": "nioumachioi-km33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM33",
+        "level": 2,
+        "name": {
+          "local": "Nioumachioi",
+          "en": "Nioumachioi",
+          "slug": "nioumachioi-km33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.313",
+      "lon": "43.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM323",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moimbassa",
+      "en": "Moimbassa",
+      "slug": "moimbassa-km323"
+    },
+    "code": {
+      "id": "KM323",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM32",
+      "level": 2,
+      "name": {
+        "local": "Fomboni",
+        "en": "Fomboni",
+        "slug": "fomboni-km32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM32",
+        "level": 2,
+        "name": {
+          "local": "Fomboni",
+          "en": "Fomboni",
+          "slug": "fomboni-km32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.277",
+      "lon": "43.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM274",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moroni",
+      "en": "Moroni",
+      "slug": "moroni-km274"
+    },
+    "code": {
+      "id": "KM274",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM27",
+      "level": 2,
+      "name": {
+        "local": "Moroni-Bambao",
+        "en": "Moroni-Bambao",
+        "slug": "moroni-bambao-km27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM27",
+        "level": 2,
+        "name": {
+          "local": "Moroni-Bambao",
+          "en": "Moroni-Bambao",
+          "slug": "moroni-bambao-km27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.704",
+      "lon": "43.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM151",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moya",
+      "en": "Moya",
+      "slug": "moya-km151"
+    },
+    "code": {
+      "id": "KM151",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM15",
+      "level": 2,
+      "name": {
+        "local": "Sima",
+        "en": "Sima",
+        "slug": "sima-km15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM15",
+        "level": 2,
+        "name": {
+          "local": "Sima",
+          "en": "Sima",
+          "slug": "sima-km15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.278",
+      "lon": "44.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM123",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mramani",
+      "en": "Mramani",
+      "slug": "mramani-km123"
+    },
+    "code": {
+      "id": "KM123",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM12",
+      "level": 2,
+      "name": {
+        "local": "Mrémani",
+        "en": "Mrémani",
+        "slug": "mrmani-km12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM12",
+        "level": 2,
+        "name": {
+          "local": "Mrémani",
+          "en": "Mrémani",
+          "slug": "mrmani-km12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.362",
+      "lon": "44.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM124",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mrémani",
+      "en": "Mrémani",
+      "slug": "mrmani-km124"
+    },
+    "code": {
+      "id": "KM124",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM12",
+      "level": 2,
+      "name": {
+        "local": "Mrémani",
+        "en": "Mrémani",
+        "slug": "mrmani-km12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM12",
+        "level": 2,
+        "name": {
+          "local": "Mrémani",
+          "en": "Mrémani",
+          "slug": "mrmani-km12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.329",
+      "lon": "44.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM134",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mutsamudu",
+      "en": "Mutsamudu",
+      "slug": "mutsamudu-km134"
+    },
+    "code": {
+      "id": "KM134",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM13",
+      "level": 2,
+      "name": {
+        "local": "Mutsamudu",
+        "en": "Mutsamudu",
+        "slug": "mutsamudu-km13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM13",
+        "level": 2,
+        "name": {
+          "local": "Mutsamudu",
+          "en": "Mutsamudu",
+          "slug": "mutsamudu-km13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.189",
+      "lon": "44.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM115",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngandzalé",
+      "en": "Ngandzalé",
+      "slug": "ngandzal-km115"
+    },
+    "code": {
+      "id": "KM115",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM11",
+      "level": 2,
+      "name": {
+        "local": "Domoni",
+        "en": "Domoni",
+        "slug": "domoni-km11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM11",
+        "level": 2,
+        "name": {
+          "local": "Domoni",
+          "en": "Domoni",
+          "slug": "domoni-km11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.257",
+      "lon": "44.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM251",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngouengoe",
+      "en": "Ngouengoe",
+      "slug": "ngouengoe-km251"
+    },
+    "code": {
+      "id": "KM251",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM25",
+      "level": 2,
+      "name": {
+        "local": "Mbadjini Ouest",
+        "en": "Mbadjini Ouest",
+        "slug": "mbadjini-ouest-km25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM25",
+        "level": 2,
+        "name": {
+          "local": "Mbadjini Ouest",
+          "en": "Mbadjini Ouest",
+          "slug": "mbadjini-ouest-km25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.83",
+      "lon": "43.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM252",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nioumagama",
+      "en": "Nioumagama",
+      "slug": "nioumagama-km252"
+    },
+    "code": {
+      "id": "KM252",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM25",
+      "level": 2,
+      "name": {
+        "local": "Mbadjini Ouest",
+        "en": "Mbadjini Ouest",
+        "slug": "mbadjini-ouest-km25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM25",
+        "level": 2,
+        "name": {
+          "local": "Mbadjini Ouest",
+          "en": "Mbadjini Ouest",
+          "slug": "mbadjini-ouest-km25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.839",
+      "lon": "43.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM264",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyuma Komo",
+      "en": "Nyuma Komo",
+      "slug": "nyuma-komo-km264"
+    },
+    "code": {
+      "id": "KM264",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.409",
+      "lon": "43.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM212",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyuma Mro",
+      "en": "Nyuma Mro",
+      "slug": "nyuma-mro-km212"
+    },
+    "code": {
+      "id": "KM212",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM21",
+      "level": 2,
+      "name": {
+        "local": "Hamahamet-Mboinkou",
+        "en": "Hamahamet-Mboinkou",
+        "slug": "hamahamet-mboinkou-km21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM21",
+        "level": 2,
+        "name": {
+          "local": "Hamahamet-Mboinkou",
+          "en": "Hamahamet-Mboinkou",
+          "slug": "hamahamet-mboinkou-km21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.472",
+      "lon": "43.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM213",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyuma Msiru",
+      "en": "Nyuma Msiru",
+      "slug": "nyuma-msiru-km213"
+    },
+    "code": {
+      "id": "KM213",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM21",
+      "level": 2,
+      "name": {
+        "local": "Hamahamet-Mboinkou",
+        "en": "Hamahamet-Mboinkou",
+        "slug": "hamahamet-mboinkou-km21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM21",
+        "level": 2,
+        "name": {
+          "local": "Hamahamet-Mboinkou",
+          "en": "Hamahamet-Mboinkou",
+          "slug": "hamahamet-mboinkou-km21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.522",
+      "lon": "43.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM265",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyumamro Kiblani",
+      "en": "Nyumamro Kiblani",
+      "slug": "nyumamro-kiblani-km265"
+    },
+    "code": {
+      "id": "KM265",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.441",
+      "lon": "43.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM266",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyumamro Souheili",
+      "en": "Nyumamro Souheili",
+      "slug": "nyumamro-souheili-km266"
+    },
+    "code": {
+      "id": "KM266",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM26",
+      "level": 2,
+      "name": {
+        "local": "Mitsamiouli-Mboudé",
+        "en": "Mitsamiouli-Mboudé",
+        "slug": "mitsamiouli-mboud-km26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM26",
+        "level": 2,
+        "name": {
+          "local": "Mitsamiouli-Mboudé",
+          "en": "Mitsamiouli-Mboudé",
+          "slug": "mitsamiouli-mboud-km26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.495",
+      "lon": "43.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM282",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oichili Yadjou",
+      "en": "Oichili Yadjou",
+      "slug": "oichili-yadjou-km282"
+    },
+    "code": {
+      "id": "KM282",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM28",
+      "level": 2,
+      "name": {
+        "local": "Oichili-Dimani",
+        "en": "Oichili-Dimani",
+        "slug": "oichili-dimani-km28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM28",
+        "level": 2,
+        "name": {
+          "local": "Oichili-Dimani",
+          "en": "Oichili-Dimani",
+          "slug": "oichili-dimani-km28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.654",
+      "lon": "43.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM283",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oichili Yamboini",
+      "en": "Oichili Yamboini",
+      "slug": "oichili-yamboini-km283"
+    },
+    "code": {
+      "id": "KM283",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM28",
+      "level": 2,
+      "name": {
+        "local": "Oichili-Dimani",
+        "en": "Oichili-Dimani",
+        "slug": "oichili-dimani-km28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM28",
+        "level": 2,
+        "name": {
+          "local": "Oichili-Dimani",
+          "en": "Oichili-Dimani",
+          "slug": "oichili-dimani-km28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.597",
+      "lon": "43.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM125",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ongojou",
+      "en": "Ongojou",
+      "slug": "ongojou-km125"
+    },
+    "code": {
+      "id": "KM125",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM12",
+      "level": 2,
+      "name": {
+        "local": "Mrémani",
+        "en": "Mrémani",
+        "slug": "mrmani-km12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM12",
+        "level": 2,
+        "name": {
+          "local": "Mrémani",
+          "en": "Mrémani",
+          "slug": "mrmani-km12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.324",
+      "lon": "44.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM143",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouani",
+      "en": "Ouani",
+      "slug": "ouani-km143"
+    },
+    "code": {
+      "id": "KM143",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM14",
+      "level": 2,
+      "name": {
+        "local": "Ouani",
+        "en": "Ouani",
+        "slug": "ouani-km14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM14",
+        "level": 2,
+        "name": {
+          "local": "Ouani",
+          "en": "Ouani",
+          "slug": "ouani-km14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.129",
+      "lon": "44.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM243",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pimba",
+      "en": "Pimba",
+      "slug": "pimba-km243"
+    },
+    "code": {
+      "id": "KM243",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM24",
+      "level": 2,
+      "name": {
+        "local": "Mbadjini Est",
+        "en": "Mbadjini Est",
+        "slug": "mbadjini-est-km24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM24",
+        "level": 2,
+        "name": {
+          "local": "Mbadjini Est",
+          "en": "Mbadjini Est",
+          "slug": "mbadjini-est-km24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.859",
+      "lon": "43.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM152",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sima",
+      "en": "Sima",
+      "slug": "sima-km152"
+    },
+    "code": {
+      "id": "KM152",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM15",
+      "level": 2,
+      "name": {
+        "local": "Sima",
+        "en": "Sima",
+        "slug": "sima-km15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM15",
+        "level": 2,
+        "name": {
+          "local": "Sima",
+          "en": "Sima",
+          "slug": "sima-km15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.198",
+      "lon": "44.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM222",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsinimoipangua",
+      "en": "Tsinimoipangua",
+      "slug": "tsinimoipangua-km222"
+    },
+    "code": {
+      "id": "KM222",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM22",
+      "level": 2,
+      "name": {
+        "local": "Hambou",
+        "en": "Hambou",
+        "slug": "hambou-km22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM22",
+        "level": 2,
+        "name": {
+          "local": "Hambou",
+          "en": "Hambou",
+          "slug": "hambou-km22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.81",
+      "lon": "43.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM153",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vouani",
+      "en": "Vouani",
+      "slug": "vouani-km153"
+    },
+    "code": {
+      "id": "KM153",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM15",
+      "level": 2,
+      "name": {
+        "local": "Sima",
+        "en": "Sima",
+        "slug": "sima-km15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM15",
+        "level": 2,
+        "name": {
+          "local": "Sima",
+          "en": "Sima",
+          "slug": "sima-km15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.241",
+      "lon": "44.391"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

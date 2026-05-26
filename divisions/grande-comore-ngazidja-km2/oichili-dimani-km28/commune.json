@@ -1,0 +1,164 @@
+[
+  {
+    "id": "KM281",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dimani",
+      "en": "Dimani",
+      "slug": "dimani-km281"
+    },
+    "code": {
+      "id": "KM281",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM28",
+      "level": 2,
+      "name": {
+        "local": "Oichili-Dimani",
+        "en": "Oichili-Dimani",
+        "slug": "oichili-dimani-km28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM28",
+        "level": 2,
+        "name": {
+          "local": "Oichili-Dimani",
+          "en": "Oichili-Dimani",
+          "slug": "oichili-dimani-km28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.71",
+      "lon": "43.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM282",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oichili Yadjou",
+      "en": "Oichili Yadjou",
+      "slug": "oichili-yadjou-km282"
+    },
+    "code": {
+      "id": "KM282",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM28",
+      "level": 2,
+      "name": {
+        "local": "Oichili-Dimani",
+        "en": "Oichili-Dimani",
+        "slug": "oichili-dimani-km28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM28",
+        "level": 2,
+        "name": {
+          "local": "Oichili-Dimani",
+          "en": "Oichili-Dimani",
+          "slug": "oichili-dimani-km28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.654",
+      "lon": "43.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM283",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oichili Yamboini",
+      "en": "Oichili Yamboini",
+      "slug": "oichili-yamboini-km283"
+    },
+    "code": {
+      "id": "KM283",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM28",
+      "level": 2,
+      "name": {
+        "local": "Oichili-Dimani",
+        "en": "Oichili-Dimani",
+        "slug": "oichili-dimani-km28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM28",
+        "level": 2,
+        "name": {
+          "local": "Oichili-Dimani",
+          "en": "Oichili-Dimani",
+          "slug": "oichili-dimani-km28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.597",
+      "lon": "43.358"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

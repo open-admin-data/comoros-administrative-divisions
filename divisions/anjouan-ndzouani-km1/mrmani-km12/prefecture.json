@@ -1,0 +1,47 @@
+{
+  "id": "KM12",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Mrémani",
+    "en": "Mrémani",
+    "slug": "mrmani-km12"
+  },
+  "code": {
+    "id": "KM12",
+    "iso": null
+  },
+  "parent": {
+    "id": "KM1",
+    "level": 1,
+    "name": {
+      "local": "Anjouan (Ndzouani)",
+      "en": "Anjouan (Ndzouani)",
+      "slug": "anjouan-ndzouani-km1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KM1",
+      "level": 1,
+      "name": {
+        "local": "Anjouan (Ndzouani)",
+        "en": "Anjouan (Ndzouani)",
+        "slug": "anjouan-ndzouani-km1"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.33",
+    "lon": "44.501"
+  },
+  "metadata": {},
+  "source": {}
+}

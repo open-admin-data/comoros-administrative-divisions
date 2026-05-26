@@ -1,0 +1,164 @@
+[
+  {
+    "id": "KM321",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fomboni",
+      "en": "Fomboni",
+      "slug": "fomboni-km321"
+    },
+    "code": {
+      "id": "KM321",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM32",
+      "level": 2,
+      "name": {
+        "local": "Fomboni",
+        "en": "Fomboni",
+        "slug": "fomboni-km32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM32",
+        "level": 2,
+        "name": {
+          "local": "Fomboni",
+          "en": "Fomboni",
+          "slug": "fomboni-km32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.298",
+      "lon": "43.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM322",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moili Mdjini",
+      "en": "Moili Mdjini",
+      "slug": "moili-mdjini-km322"
+    },
+    "code": {
+      "id": "KM322",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM32",
+      "level": 2,
+      "name": {
+        "local": "Fomboni",
+        "en": "Fomboni",
+        "slug": "fomboni-km32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM32",
+        "level": 2,
+        "name": {
+          "local": "Fomboni",
+          "en": "Fomboni",
+          "slug": "fomboni-km32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.314",
+      "lon": "43.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM323",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moimbassa",
+      "en": "Moimbassa",
+      "slug": "moimbassa-km323"
+    },
+    "code": {
+      "id": "KM323",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM32",
+      "level": 2,
+      "name": {
+        "local": "Fomboni",
+        "en": "Fomboni",
+        "slug": "fomboni-km32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM3",
+        "level": 1,
+        "name": {
+          "local": "Mohéli (Mwali)",
+          "en": "Mohéli (Mwali)",
+          "slug": "mohli-mwali-km3"
+        }
+      },
+      {
+        "id": "KM32",
+        "level": 2,
+        "name": {
+          "local": "Fomboni",
+          "en": "Fomboni",
+          "slug": "fomboni-km32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.277",
+      "lon": "43.681"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

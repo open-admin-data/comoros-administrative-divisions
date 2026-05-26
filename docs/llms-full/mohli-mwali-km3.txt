@@ -1,0 +1,48 @@
+# Mohéli (Mwali) — Comoros Administrative Divisions
+
+> 3 prefectures, 6 communes
+> Code: KM3
+> Coordinates: -12.32, 43.721
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Prefectures
+
+### Djando
+
+Code: KM31, Coordinates: -12.357, 43.815
+Communes: 1
+
+#### Djando
+
+Code: KM311, Coordinates: -12.357, 43.815
+
+### Fomboni
+
+Code: KM32, Coordinates: -12.295, 43.723
+Communes: 3
+
+#### Fomboni
+
+Code: KM321, Coordinates: -12.298, 43.721
+
+#### Moili Mdjini
+
+Code: KM322, Coordinates: -12.314, 43.767
+
+#### Moimbassa
+
+Code: KM323, Coordinates: -12.277, 43.681
+
+### Nioumachioi
+
+Code: KM33, Coordinates: -12.323, 43.682
+Communes: 2
+
+#### Mlédjélé
+
+Code: KM331, Coordinates: -12.349, 43.715
+
+#### Moimbao
+
+Code: KM332, Coordinates: -12.313, 43.666
+

@@ -1,0 +1,47 @@
+{
+  "id": "KM13",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Mutsamudu",
+    "en": "Mutsamudu",
+    "slug": "mutsamudu-km13"
+  },
+  "code": {
+    "id": "KM13",
+    "iso": null
+  },
+  "parent": {
+    "id": "KM1",
+    "level": 1,
+    "name": {
+      "local": "Anjouan (Ndzouani)",
+      "en": "Anjouan (Ndzouani)",
+      "slug": "anjouan-ndzouani-km1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KM1",
+      "level": 1,
+      "name": {
+        "local": "Anjouan (Ndzouani)",
+        "en": "Anjouan (Ndzouani)",
+        "slug": "anjouan-ndzouani-km1"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.183",
+    "lon": "44.408"
+  },
+  "metadata": {},
+  "source": {}
+}

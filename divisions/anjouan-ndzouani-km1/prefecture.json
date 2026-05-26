@@ -1,0 +1,237 @@
+[
+  {
+    "id": "KM11",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Domoni",
+      "en": "Domoni",
+      "slug": "domoni-km11"
+    },
+    "code": {
+      "id": "KM11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM1",
+      "level": 1,
+      "name": {
+        "local": "Anjouan (Ndzouani)",
+        "en": "Anjouan (Ndzouani)",
+        "slug": "anjouan-ndzouani-km1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.179",
+      "lon": "44.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM12",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mrémani",
+      "en": "Mrémani",
+      "slug": "mrmani-km12"
+    },
+    "code": {
+      "id": "KM12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM1",
+      "level": 1,
+      "name": {
+        "local": "Anjouan (Ndzouani)",
+        "en": "Anjouan (Ndzouani)",
+        "slug": "anjouan-ndzouani-km1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.33",
+      "lon": "44.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM13",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mutsamudu",
+      "en": "Mutsamudu",
+      "slug": "mutsamudu-km13"
+    },
+    "code": {
+      "id": "KM13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM1",
+      "level": 1,
+      "name": {
+        "local": "Anjouan (Ndzouani)",
+        "en": "Anjouan (Ndzouani)",
+        "slug": "anjouan-ndzouani-km1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.183",
+      "lon": "44.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM14",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ouani",
+      "en": "Ouani",
+      "slug": "ouani-km14"
+    },
+    "code": {
+      "id": "KM14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM1",
+      "level": 1,
+      "name": {
+        "local": "Anjouan (Ndzouani)",
+        "en": "Anjouan (Ndzouani)",
+        "slug": "anjouan-ndzouani-km1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.16",
+      "lon": "44.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM15",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Sima",
+      "en": "Sima",
+      "slug": "sima-km15"
+    },
+    "code": {
+      "id": "KM15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM1",
+      "level": 1,
+      "name": {
+        "local": "Anjouan (Ndzouani)",
+        "en": "Anjouan (Ndzouani)",
+        "slug": "anjouan-ndzouani-km1"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.244",
+      "lon": "44.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Comoros Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-26"
+url: "https://github.com/open-admin-data/comoros-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/comoros-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - comoros
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Comoros's administrative hierarchy:
+  3 islands, 17 prefectures, 55 communes.
+  Bilingual with coordinates and postal codes where available.

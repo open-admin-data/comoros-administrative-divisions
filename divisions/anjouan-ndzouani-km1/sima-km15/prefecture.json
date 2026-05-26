@@ -1,0 +1,47 @@
+{
+  "id": "KM15",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Sima",
+    "en": "Sima",
+    "slug": "sima-km15"
+  },
+  "code": {
+    "id": "KM15",
+    "iso": null
+  },
+  "parent": {
+    "id": "KM1",
+    "level": 1,
+    "name": {
+      "local": "Anjouan (Ndzouani)",
+      "en": "Anjouan (Ndzouani)",
+      "slug": "anjouan-ndzouani-km1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KM1",
+      "level": 1,
+      "name": {
+        "local": "Anjouan (Ndzouani)",
+        "en": "Anjouan (Ndzouani)",
+        "slug": "anjouan-ndzouani-km1"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.244",
+    "lon": "44.408"
+  },
+  "metadata": {},
+  "source": {}
+}

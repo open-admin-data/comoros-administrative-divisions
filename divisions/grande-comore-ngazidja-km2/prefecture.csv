@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+KM21,Hamahamet-Mboinkou,Hamahamet-Mboinkou,hamahamet-mboinkou-km21,KM21,3,-11.482,43.374
+KM22,Hambou,Hambou,hambou-km22,KM22,2,-11.815,43.315
+KM23,Itsandra-Hamanvou,Itsandra-Hamanvou,itsandra-hamanvou-km23,KM23,5,-11.611,43.288
+KM29,Kartala,Kartala,kartala-km29,KM29,1,-11.764,43.368
+KM24,Mbadjini Est,Mbadjini Est,mbadjini-est-km24,KM24,3,-11.838,43.455
+KM25,Mbadjini Ouest,Mbadjini Ouest,mbadjini-ouest-km25,KM25,2,-11.847,43.398
+KM26,Mitsamiouli-Mboudé,Mitsamiouli-Mboudé,mitsamiouli-mboud-km26,KM26,6,-11.447,43.311
+KM27,Moroni-Bambao,Moroni-Bambao,moroni-bambao-km27,KM27,4,-11.742,43.294
+KM28,Oichili-Dimani,Oichili-Dimani,oichili-dimani-km28,KM28,3,-11.657,43.369

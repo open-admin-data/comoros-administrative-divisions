@@ -1,0 +1,272 @@
+[
+  {
+    "id": "KM111",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambao Mtsanga",
+      "en": "Bambao Mtsanga",
+      "slug": "bambao-mtsanga-km111"
+    },
+    "code": {
+      "id": "KM111",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM11",
+      "level": 2,
+      "name": {
+        "local": "Domoni",
+        "en": "Domoni",
+        "slug": "domoni-km11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM11",
+        "level": 2,
+        "name": {
+          "local": "Domoni",
+          "en": "Domoni",
+          "slug": "domoni-km11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.187",
+      "lon": "44.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM112",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Domoni",
+      "en": "Domoni",
+      "slug": "domoni-km112"
+    },
+    "code": {
+      "id": "KM112",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM11",
+      "level": 2,
+      "name": {
+        "local": "Domoni",
+        "en": "Domoni",
+        "slug": "domoni-km11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM11",
+        "level": 2,
+        "name": {
+          "local": "Domoni",
+          "en": "Domoni",
+          "slug": "domoni-km11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.257",
+      "lon": "44.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM113",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Jimlimé",
+      "en": "Jimlimé",
+      "slug": "jimlim-km113"
+    },
+    "code": {
+      "id": "KM113",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM11",
+      "level": 2,
+      "name": {
+        "local": "Domoni",
+        "en": "Domoni",
+        "slug": "domoni-km11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM11",
+        "level": 2,
+        "name": {
+          "local": "Domoni",
+          "en": "Domoni",
+          "slug": "domoni-km11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.115",
+      "lon": "44.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM114",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koni",
+      "en": "Koni",
+      "slug": "koni-km114"
+    },
+    "code": {
+      "id": "KM114",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM11",
+      "level": 2,
+      "name": {
+        "local": "Domoni",
+        "en": "Domoni",
+        "slug": "domoni-km11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM11",
+        "level": 2,
+        "name": {
+          "local": "Domoni",
+          "en": "Domoni",
+          "slug": "domoni-km11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.228",
+      "lon": "44.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM115",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngandzalé",
+      "en": "Ngandzalé",
+      "slug": "ngandzal-km115"
+    },
+    "code": {
+      "id": "KM115",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM11",
+      "level": 2,
+      "name": {
+        "local": "Domoni",
+        "en": "Domoni",
+        "slug": "domoni-km11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM1",
+        "level": 1,
+        "name": {
+          "local": "Anjouan (Ndzouani)",
+          "en": "Anjouan (Ndzouani)",
+          "slug": "anjouan-ndzouani-km1"
+        }
+      },
+      {
+        "id": "KM11",
+        "level": 2,
+        "name": {
+          "local": "Domoni",
+          "en": "Domoni",
+          "slug": "domoni-km11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.257",
+      "lon": "44.479"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+# Anjouan (Ndzouani) — Comoros Administrative Divisions
+
+> 5 prefectures, 20 communes
+> Code: KM1
+> Coordinates: -12.226, 44.411
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Prefectures
+
+### Domoni
+
+Code: KM11, Coordinates: -12.179, 44.498
+Communes: 5
+
+#### Bambao Mtsanga
+
+Code: KM111, Coordinates: -12.187, 44.503
+
+#### Domoni
+
+Code: KM112, Coordinates: -12.257, 44.515
+
+#### Jimlimé
+
+Code: KM113, Coordinates: -12.115, 44.466
+
+#### Koni
+
+Code: KM114, Coordinates: -12.228, 44.494
+
+#### Ngandzalé
+
+Code: KM115, Coordinates: -12.257, 44.479
+
+### Mrémani
+
+Code: KM12, Coordinates: -12.33, 44.501
+Communes: 5
+
+#### Adda
+
+Code: KM121, Coordinates: -12.306, 44.48
+
+#### Chaweni
+
+Code: KM122, Coordinates: -12.364, 44.502
+
+#### Mramani
+
+Code: KM123, Coordinates: -12.362, 44.52
+
+#### Mrémani
+
+Code: KM124, Coordinates: -12.329, 44.491
+
+#### Ongojou
+
+Code: KM125, Coordinates: -12.324, 44.516
+
+### Mutsamudu
+
+Code: KM13, Coordinates: -12.183, 44.408
+Communes: 4
+
+#### Bandrani Ya Chironkamba
+
+Code: KM131, Coordinates: -12.2, 44.361
+
+#### Bandrani Ya Mtsangani
+
+Code: KM132, Coordinates: -12.201, 44.321
+
+#### Mirontsi
+
+Code: KM133, Coordinates: -12.164, 44.417
+
+#### Mutsamudu
+
+Code: KM134, Coordinates: -12.189, 44.408
+
+### Ouani
+
+Code: KM14, Coordinates: -12.16, 44.448
+Communes: 3
+
+#### Bambao Mtrouni
+
+Code: KM141, Coordinates: -12.202, 44.463
+
+#### Bazimini
+
+Code: KM142, Coordinates: -12.178, 44.453
+
+#### Ouani
+
+Code: KM143, Coordinates: -12.129, 44.44
+
+### Sima
+
+Code: KM15, Coordinates: -12.244, 44.408
+Communes: 3
+
+#### Moya
+
+Code: KM151, Coordinates: -12.278, 44.429
+
+#### Sima
+
+Code: KM152, Coordinates: -12.198, 44.269
+
+#### Vouani
+
+Code: KM153, Coordinates: -12.241, 44.391
+

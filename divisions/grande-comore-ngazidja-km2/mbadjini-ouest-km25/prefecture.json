@@ -1,0 +1,47 @@
+{
+  "id": "KM25",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Mbadjini Ouest",
+    "en": "Mbadjini Ouest",
+    "slug": "mbadjini-ouest-km25"
+  },
+  "code": {
+    "id": "KM25",
+    "iso": null
+  },
+  "parent": {
+    "id": "KM2",
+    "level": 1,
+    "name": {
+      "local": "Grande Comore (Ngazidja)",
+      "en": "Grande Comore (Ngazidja)",
+      "slug": "grande-comore-ngazidja-km2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.847",
+    "lon": "43.398"
+  },
+  "metadata": {},
+  "source": {}
+}

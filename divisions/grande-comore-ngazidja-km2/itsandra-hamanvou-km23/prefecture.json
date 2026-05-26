@@ -1,0 +1,47 @@
+{
+  "id": "KM23",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Itsandra-Hamanvou",
+    "en": "Itsandra-Hamanvou",
+    "slug": "itsandra-hamanvou-km23"
+  },
+  "code": {
+    "id": "KM23",
+    "iso": null
+  },
+  "parent": {
+    "id": "KM2",
+    "level": 1,
+    "name": {
+      "local": "Grande Comore (Ngazidja)",
+      "en": "Grande Comore (Ngazidja)",
+      "slug": "grande-comore-ngazidja-km2"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KM2",
+      "level": 1,
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.611",
+    "lon": "43.288"
+  },
+  "metadata": {},
+  "source": {}
+}

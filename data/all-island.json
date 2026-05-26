@@ -1,0 +1,92 @@
+[
+  {
+    "id": "KM1",
+    "level": 1,
+    "level_name": {
+      "local": "Île",
+      "en": "Island"
+    },
+    "name": {
+      "local": "Anjouan (Ndzouani)",
+      "en": "Anjouan (Ndzouani)",
+      "slug": "anjouan-ndzouani-km1"
+    },
+    "code": {
+      "id": "KM1",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "prefecture": 5,
+      "commune": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.226",
+      "lon": "44.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM2",
+    "level": 1,
+    "level_name": {
+      "local": "Île",
+      "en": "Island"
+    },
+    "name": {
+      "local": "Grande Comore (Ngazidja)",
+      "en": "Grande Comore (Ngazidja)",
+      "slug": "grande-comore-ngazidja-km2"
+    },
+    "code": {
+      "id": "KM2",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "prefecture": 9,
+      "commune": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.652",
+      "lon": "43.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM3",
+    "level": 1,
+    "level_name": {
+      "local": "Île",
+      "en": "Island"
+    },
+    "name": {
+      "local": "Mohéli (Mwali)",
+      "en": "Mohéli (Mwali)",
+      "slug": "mohli-mwali-km3"
+    },
+    "code": {
+      "id": "KM3",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "prefecture": 3,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.32",
+      "lon": "43.721"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

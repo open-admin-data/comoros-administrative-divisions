@@ -1,0 +1,110 @@
+[
+  {
+    "id": "KM221",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djoumoipangua",
+      "en": "Djoumoipangua",
+      "slug": "djoumoipangua-km221"
+    },
+    "code": {
+      "id": "KM221",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM22",
+      "level": 2,
+      "name": {
+        "local": "Hambou",
+        "en": "Hambou",
+        "slug": "hambou-km22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM22",
+        "level": 2,
+        "name": {
+          "local": "Hambou",
+          "en": "Hambou",
+          "slug": "hambou-km22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.806",
+      "lon": "43.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM222",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsinimoipangua",
+      "en": "Tsinimoipangua",
+      "slug": "tsinimoipangua-km222"
+    },
+    "code": {
+      "id": "KM222",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM22",
+      "level": 2,
+      "name": {
+        "local": "Hambou",
+        "en": "Hambou",
+        "slug": "hambou-km22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM22",
+        "level": 2,
+        "name": {
+          "local": "Hambou",
+          "en": "Hambou",
+          "slug": "hambou-km22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.81",
+      "lon": "43.296"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

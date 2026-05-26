@@ -1,0 +1,164 @@
+[
+  {
+    "id": "KM211",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mboinkou",
+      "en": "Mboinkou",
+      "slug": "mboinkou-km211"
+    },
+    "code": {
+      "id": "KM211",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM21",
+      "level": 2,
+      "name": {
+        "local": "Hamahamet-Mboinkou",
+        "en": "Hamahamet-Mboinkou",
+        "slug": "hamahamet-mboinkou-km21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM21",
+        "level": 2,
+        "name": {
+          "local": "Hamahamet-Mboinkou",
+          "en": "Hamahamet-Mboinkou",
+          "slug": "hamahamet-mboinkou-km21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.431",
+      "lon": "43.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM212",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyuma Mro",
+      "en": "Nyuma Mro",
+      "slug": "nyuma-mro-km212"
+    },
+    "code": {
+      "id": "KM212",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM21",
+      "level": 2,
+      "name": {
+        "local": "Hamahamet-Mboinkou",
+        "en": "Hamahamet-Mboinkou",
+        "slug": "hamahamet-mboinkou-km21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM21",
+        "level": 2,
+        "name": {
+          "local": "Hamahamet-Mboinkou",
+          "en": "Hamahamet-Mboinkou",
+          "slug": "hamahamet-mboinkou-km21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.472",
+      "lon": "43.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KM213",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyuma Msiru",
+      "en": "Nyuma Msiru",
+      "slug": "nyuma-msiru-km213"
+    },
+    "code": {
+      "id": "KM213",
+      "iso": null
+    },
+    "parent": {
+      "id": "KM21",
+      "level": 2,
+      "name": {
+        "local": "Hamahamet-Mboinkou",
+        "en": "Hamahamet-Mboinkou",
+        "slug": "hamahamet-mboinkou-km21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KM2",
+        "level": 1,
+        "name": {
+          "local": "Grande Comore (Ngazidja)",
+          "en": "Grande Comore (Ngazidja)",
+          "slug": "grande-comore-ngazidja-km2"
+        }
+      },
+      {
+        "id": "KM21",
+        "level": 2,
+        "name": {
+          "local": "Hamahamet-Mboinkou",
+          "en": "Hamahamet-Mboinkou",
+          "slug": "hamahamet-mboinkou-km21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.522",
+      "lon": "43.379"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
