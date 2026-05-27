@@ -12,7 +12,9 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-26 |
+| Last Updated | 2026-05-27 |
+| Website | [openadmindata.org/km](https://openadmindata.org/km/) |
+| API | [openadmindata.org/api/km](https://openadmindata.org/api/km/) |
 
 ## Browse by Island
 
@@ -107,6 +109,6 @@ See [CITATION.cff](CITATION.cff) for machine-readable citation.
 
 ## Related
 
+- [Open Admin Data](https://openadmindata.org) — Browse, search and explore administrative divisions for every country
+- [open-admin-data](https://github.com/open-admin-data) — GitHub organization with all country repos
 - [ListBase](https://www.listbase.org) — Structured reference data for every country
-- [open-admin-data](https://github.com/open-admin-data) — Open administrative data for ASEAN countries
-- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions) — Thailand dataset

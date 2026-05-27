@@ -3,7 +3,7 @@
 > 5 prefectures, 20 communes
 > Code: KM1
 > Coordinates: -12.226, 44.411
-> Last updated: 2026-05-26. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Prefectures
 
