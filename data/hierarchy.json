@@ -1,942 +1,945 @@
-[
-  {
-    "id": "KM1",
-    "name": {
-      "local": "Anjouan (Ndzouani)",
-      "en": "Anjouan (Ndzouani)",
-      "slug": "anjouan-ndzouani-km1"
-    },
-    "code": {
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/km/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/comoros-administrative-divisions",
+  "data": [
+    {
       "id": "KM1",
-      "iso": null
-    },
-    "prefecture": [
-      {
-        "id": "KM11",
-        "name": {
-          "local": "Domoni",
-          "en": "Domoni",
-          "slug": "domoni-km11"
-        },
-        "code": {
+      "name": {
+        "local": "Anjouan (Ndzouani)",
+        "en": "Anjouan (Ndzouani)",
+        "slug": "anjouan-ndzouani-km1"
+      },
+      "code": {
+        "id": "KM1",
+        "iso": null
+      },
+      "prefecture": [
+        {
           "id": "KM11",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM111",
-            "name": {
-              "local": "Bambao Mtsanga",
-              "en": "Bambao Mtsanga",
-              "slug": "bambao-mtsanga-km111"
-            },
-            "code": {
+          "name": {
+            "local": "Domoni",
+            "en": "Domoni",
+            "slug": "domoni-km11"
+          },
+          "code": {
+            "id": "KM11",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM111",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM112",
-            "name": {
-              "local": "Domoni",
-              "en": "Domoni",
-              "slug": "domoni-km112"
+              "name": {
+                "local": "Bambao Mtsanga",
+                "en": "Bambao Mtsanga",
+                "slug": "bambao-mtsanga-km111"
+              },
+              "code": {
+                "id": "KM111",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM112",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM113",
-            "name": {
-              "local": "Jimlimé",
-              "en": "Jimlimé",
-              "slug": "jimlim-km113"
+              "name": {
+                "local": "Domoni",
+                "en": "Domoni",
+                "slug": "domoni-km112"
+              },
+              "code": {
+                "id": "KM112",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM113",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM114",
-            "name": {
-              "local": "Koni",
-              "en": "Koni",
-              "slug": "koni-km114"
+              "name": {
+                "local": "Jimlimé",
+                "en": "Jimlimé",
+                "slug": "jimlim-km113"
+              },
+              "code": {
+                "id": "KM113",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM114",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM115",
-            "name": {
-              "local": "Ngandzalé",
-              "en": "Ngandzalé",
-              "slug": "ngandzal-km115"
+              "name": {
+                "local": "Koni",
+                "en": "Koni",
+                "slug": "koni-km114"
+              },
+              "code": {
+                "id": "KM114",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM115",
-              "iso": null
+              "name": {
+                "local": "Ngandzalé",
+                "en": "Ngandzalé",
+                "slug": "ngandzal-km115"
+              },
+              "code": {
+                "id": "KM115",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM12",
-        "name": {
-          "local": "Mrémani",
-          "en": "Mrémani",
-          "slug": "mrmani-km12"
+          ]
         },
-        "code": {
+        {
           "id": "KM12",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM121",
-            "name": {
-              "local": "Adda",
-              "en": "Adda",
-              "slug": "adda-km121"
-            },
-            "code": {
+          "name": {
+            "local": "Mrémani",
+            "en": "Mrémani",
+            "slug": "mrmani-km12"
+          },
+          "code": {
+            "id": "KM12",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM121",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM122",
-            "name": {
-              "local": "Chaweni",
-              "en": "Chaweni",
-              "slug": "chaweni-km122"
+              "name": {
+                "local": "Adda",
+                "en": "Adda",
+                "slug": "adda-km121"
+              },
+              "code": {
+                "id": "KM121",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM122",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM123",
-            "name": {
-              "local": "Mramani",
-              "en": "Mramani",
-              "slug": "mramani-km123"
+              "name": {
+                "local": "Chaweni",
+                "en": "Chaweni",
+                "slug": "chaweni-km122"
+              },
+              "code": {
+                "id": "KM122",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM123",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM124",
-            "name": {
-              "local": "Mrémani",
-              "en": "Mrémani",
-              "slug": "mrmani-km124"
+              "name": {
+                "local": "Mramani",
+                "en": "Mramani",
+                "slug": "mramani-km123"
+              },
+              "code": {
+                "id": "KM123",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM124",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM125",
-            "name": {
-              "local": "Ongojou",
-              "en": "Ongojou",
-              "slug": "ongojou-km125"
+              "name": {
+                "local": "Mrémani",
+                "en": "Mrémani",
+                "slug": "mrmani-km124"
+              },
+              "code": {
+                "id": "KM124",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM125",
-              "iso": null
+              "name": {
+                "local": "Ongojou",
+                "en": "Ongojou",
+                "slug": "ongojou-km125"
+              },
+              "code": {
+                "id": "KM125",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM13",
-        "name": {
-          "local": "Mutsamudu",
-          "en": "Mutsamudu",
-          "slug": "mutsamudu-km13"
+          ]
         },
-        "code": {
+        {
           "id": "KM13",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM131",
-            "name": {
-              "local": "Bandrani Ya Chironkamba",
-              "en": "Bandrani Ya Chironkamba",
-              "slug": "bandrani-ya-chironkamba-km131"
-            },
-            "code": {
+          "name": {
+            "local": "Mutsamudu",
+            "en": "Mutsamudu",
+            "slug": "mutsamudu-km13"
+          },
+          "code": {
+            "id": "KM13",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM131",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM132",
-            "name": {
-              "local": "Bandrani Ya Mtsangani",
-              "en": "Bandrani Ya Mtsangani",
-              "slug": "bandrani-ya-mtsangani-km132"
+              "name": {
+                "local": "Bandrani Ya Chironkamba",
+                "en": "Bandrani Ya Chironkamba",
+                "slug": "bandrani-ya-chironkamba-km131"
+              },
+              "code": {
+                "id": "KM131",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM132",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM133",
-            "name": {
-              "local": "Mirontsi",
-              "en": "Mirontsi",
-              "slug": "mirontsi-km133"
+              "name": {
+                "local": "Bandrani Ya Mtsangani",
+                "en": "Bandrani Ya Mtsangani",
+                "slug": "bandrani-ya-mtsangani-km132"
+              },
+              "code": {
+                "id": "KM132",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM133",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM134",
-            "name": {
-              "local": "Mutsamudu",
-              "en": "Mutsamudu",
-              "slug": "mutsamudu-km134"
+              "name": {
+                "local": "Mirontsi",
+                "en": "Mirontsi",
+                "slug": "mirontsi-km133"
+              },
+              "code": {
+                "id": "KM133",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM134",
-              "iso": null
+              "name": {
+                "local": "Mutsamudu",
+                "en": "Mutsamudu",
+                "slug": "mutsamudu-km134"
+              },
+              "code": {
+                "id": "KM134",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM14",
-        "name": {
-          "local": "Ouani",
-          "en": "Ouani",
-          "slug": "ouani-km14"
+          ]
         },
-        "code": {
+        {
           "id": "KM14",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM141",
-            "name": {
-              "local": "Bambao Mtrouni",
-              "en": "Bambao Mtrouni",
-              "slug": "bambao-mtrouni-km141"
-            },
-            "code": {
+          "name": {
+            "local": "Ouani",
+            "en": "Ouani",
+            "slug": "ouani-km14"
+          },
+          "code": {
+            "id": "KM14",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM141",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM142",
-            "name": {
-              "local": "Bazimini",
-              "en": "Bazimini",
-              "slug": "bazimini-km142"
+              "name": {
+                "local": "Bambao Mtrouni",
+                "en": "Bambao Mtrouni",
+                "slug": "bambao-mtrouni-km141"
+              },
+              "code": {
+                "id": "KM141",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM142",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM143",
-            "name": {
-              "local": "Ouani",
-              "en": "Ouani",
-              "slug": "ouani-km143"
+              "name": {
+                "local": "Bazimini",
+                "en": "Bazimini",
+                "slug": "bazimini-km142"
+              },
+              "code": {
+                "id": "KM142",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM143",
-              "iso": null
+              "name": {
+                "local": "Ouani",
+                "en": "Ouani",
+                "slug": "ouani-km143"
+              },
+              "code": {
+                "id": "KM143",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM15",
-        "name": {
-          "local": "Sima",
-          "en": "Sima",
-          "slug": "sima-km15"
+          ]
         },
-        "code": {
+        {
           "id": "KM15",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM151",
-            "name": {
-              "local": "Moya",
-              "en": "Moya",
-              "slug": "moya-km151"
-            },
-            "code": {
+          "name": {
+            "local": "Sima",
+            "en": "Sima",
+            "slug": "sima-km15"
+          },
+          "code": {
+            "id": "KM15",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM151",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM152",
-            "name": {
-              "local": "Sima",
-              "en": "Sima",
-              "slug": "sima-km152"
+              "name": {
+                "local": "Moya",
+                "en": "Moya",
+                "slug": "moya-km151"
+              },
+              "code": {
+                "id": "KM151",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM152",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM153",
-            "name": {
-              "local": "Vouani",
-              "en": "Vouani",
-              "slug": "vouani-km153"
+              "name": {
+                "local": "Sima",
+                "en": "Sima",
+                "slug": "sima-km152"
+              },
+              "code": {
+                "id": "KM152",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM153",
-              "iso": null
+              "name": {
+                "local": "Vouani",
+                "en": "Vouani",
+                "slug": "vouani-km153"
+              },
+              "code": {
+                "id": "KM153",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "KM2",
-    "name": {
-      "local": "Grande Comore (Ngazidja)",
-      "en": "Grande Comore (Ngazidja)",
-      "slug": "grande-comore-ngazidja-km2"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "KM2",
-      "iso": null
-    },
-    "prefecture": [
-      {
-        "id": "KM21",
-        "name": {
-          "local": "Hamahamet-Mboinkou",
-          "en": "Hamahamet-Mboinkou",
-          "slug": "hamahamet-mboinkou-km21"
-        },
-        "code": {
+      "name": {
+        "local": "Grande Comore (Ngazidja)",
+        "en": "Grande Comore (Ngazidja)",
+        "slug": "grande-comore-ngazidja-km2"
+      },
+      "code": {
+        "id": "KM2",
+        "iso": null
+      },
+      "prefecture": [
+        {
           "id": "KM21",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM211",
-            "name": {
-              "local": "Mboinkou",
-              "en": "Mboinkou",
-              "slug": "mboinkou-km211"
-            },
-            "code": {
+          "name": {
+            "local": "Hamahamet-Mboinkou",
+            "en": "Hamahamet-Mboinkou",
+            "slug": "hamahamet-mboinkou-km21"
+          },
+          "code": {
+            "id": "KM21",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM211",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM212",
-            "name": {
-              "local": "Nyuma Mro",
-              "en": "Nyuma Mro",
-              "slug": "nyuma-mro-km212"
+              "name": {
+                "local": "Mboinkou",
+                "en": "Mboinkou",
+                "slug": "mboinkou-km211"
+              },
+              "code": {
+                "id": "KM211",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM212",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM213",
-            "name": {
-              "local": "Nyuma Msiru",
-              "en": "Nyuma Msiru",
-              "slug": "nyuma-msiru-km213"
+              "name": {
+                "local": "Nyuma Mro",
+                "en": "Nyuma Mro",
+                "slug": "nyuma-mro-km212"
+              },
+              "code": {
+                "id": "KM212",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM213",
-              "iso": null
+              "name": {
+                "local": "Nyuma Msiru",
+                "en": "Nyuma Msiru",
+                "slug": "nyuma-msiru-km213"
+              },
+              "code": {
+                "id": "KM213",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM22",
-        "name": {
-          "local": "Hambou",
-          "en": "Hambou",
-          "slug": "hambou-km22"
+          ]
         },
-        "code": {
+        {
           "id": "KM22",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM221",
-            "name": {
-              "local": "Djoumoipangua",
-              "en": "Djoumoipangua",
-              "slug": "djoumoipangua-km221"
-            },
-            "code": {
+          "name": {
+            "local": "Hambou",
+            "en": "Hambou",
+            "slug": "hambou-km22"
+          },
+          "code": {
+            "id": "KM22",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM221",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM222",
-            "name": {
-              "local": "Tsinimoipangua",
-              "en": "Tsinimoipangua",
-              "slug": "tsinimoipangua-km222"
+              "name": {
+                "local": "Djoumoipangua",
+                "en": "Djoumoipangua",
+                "slug": "djoumoipangua-km221"
+              },
+              "code": {
+                "id": "KM221",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM222",
-              "iso": null
+              "name": {
+                "local": "Tsinimoipangua",
+                "en": "Tsinimoipangua",
+                "slug": "tsinimoipangua-km222"
+              },
+              "code": {
+                "id": "KM222",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM23",
-        "name": {
-          "local": "Itsandra-Hamanvou",
-          "en": "Itsandra-Hamanvou",
-          "slug": "itsandra-hamanvou-km23"
+          ]
         },
-        "code": {
+        {
           "id": "KM23",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM231",
-            "name": {
-              "local": "Bangaani",
-              "en": "Bangaani",
-              "slug": "bangaani-km231"
-            },
-            "code": {
+          "name": {
+            "local": "Itsandra-Hamanvou",
+            "en": "Itsandra-Hamanvou",
+            "slug": "itsandra-hamanvou-km23"
+          },
+          "code": {
+            "id": "KM23",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM231",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM232",
-            "name": {
-              "local": "Djoumoichongo",
-              "en": "Djoumoichongo",
-              "slug": "djoumoichongo-km232"
+              "name": {
+                "local": "Bangaani",
+                "en": "Bangaani",
+                "slug": "bangaani-km231"
+              },
+              "code": {
+                "id": "KM231",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM232",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM233",
-            "name": {
-              "local": "Hamanvou",
-              "en": "Hamanvou",
-              "slug": "hamanvou-km233"
+              "name": {
+                "local": "Djoumoichongo",
+                "en": "Djoumoichongo",
+                "slug": "djoumoichongo-km232"
+              },
+              "code": {
+                "id": "KM232",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM233",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM234",
-            "name": {
-              "local": "Isahari",
-              "en": "Isahari",
-              "slug": "isahari-km234"
+              "name": {
+                "local": "Hamanvou",
+                "en": "Hamanvou",
+                "slug": "hamanvou-km233"
+              },
+              "code": {
+                "id": "KM233",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM234",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM235",
-            "name": {
-              "local": "Mbadani",
-              "en": "Mbadani",
-              "slug": "mbadani-km235"
+              "name": {
+                "local": "Isahari",
+                "en": "Isahari",
+                "slug": "isahari-km234"
+              },
+              "code": {
+                "id": "KM234",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM235",
-              "iso": null
+              "name": {
+                "local": "Mbadani",
+                "en": "Mbadani",
+                "slug": "mbadani-km235"
+              },
+              "code": {
+                "id": "KM235",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM29",
-        "name": {
-          "local": "Kartala",
-          "en": "Kartala",
-          "slug": "kartala-km29"
+          ]
         },
-        "code": {
+        {
           "id": "KM29",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM291",
-            "name": {
-              "local": "Cratère du Karthala",
-              "en": "Cratère du Karthala",
-              "slug": "cratre-du-karthala-km291"
-            },
-            "code": {
+          "name": {
+            "local": "Kartala",
+            "en": "Kartala",
+            "slug": "kartala-km29"
+          },
+          "code": {
+            "id": "KM29",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM291",
-              "iso": null
+              "name": {
+                "local": "Cratère du Karthala",
+                "en": "Cratère du Karthala",
+                "slug": "cratre-du-karthala-km291"
+              },
+              "code": {
+                "id": "KM291",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM24",
-        "name": {
-          "local": "Mbadjini Est",
-          "en": "Mbadjini Est",
-          "slug": "mbadjini-est-km24"
+          ]
         },
-        "code": {
+        {
           "id": "KM24",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM241",
-            "name": {
-              "local": "Domba",
-              "en": "Domba",
-              "slug": "domba-km241"
-            },
-            "code": {
+          "name": {
+            "local": "Mbadjini Est",
+            "en": "Mbadjini Est",
+            "slug": "mbadjini-est-km24"
+          },
+          "code": {
+            "id": "KM24",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM241",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM242",
-            "name": {
-              "local": "Itsahidi",
-              "en": "Itsahidi",
-              "slug": "itsahidi-km242"
+              "name": {
+                "local": "Domba",
+                "en": "Domba",
+                "slug": "domba-km241"
+              },
+              "code": {
+                "id": "KM241",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM242",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM243",
-            "name": {
-              "local": "Pimba",
-              "en": "Pimba",
-              "slug": "pimba-km243"
+              "name": {
+                "local": "Itsahidi",
+                "en": "Itsahidi",
+                "slug": "itsahidi-km242"
+              },
+              "code": {
+                "id": "KM242",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM243",
-              "iso": null
+              "name": {
+                "local": "Pimba",
+                "en": "Pimba",
+                "slug": "pimba-km243"
+              },
+              "code": {
+                "id": "KM243",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM25",
-        "name": {
-          "local": "Mbadjini Ouest",
-          "en": "Mbadjini Ouest",
-          "slug": "mbadjini-ouest-km25"
+          ]
         },
-        "code": {
+        {
           "id": "KM25",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM251",
-            "name": {
-              "local": "Ngouengoe",
-              "en": "Ngouengoe",
-              "slug": "ngouengoe-km251"
-            },
-            "code": {
+          "name": {
+            "local": "Mbadjini Ouest",
+            "en": "Mbadjini Ouest",
+            "slug": "mbadjini-ouest-km25"
+          },
+          "code": {
+            "id": "KM25",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM251",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM252",
-            "name": {
-              "local": "Nioumagama",
-              "en": "Nioumagama",
-              "slug": "nioumagama-km252"
+              "name": {
+                "local": "Ngouengoe",
+                "en": "Ngouengoe",
+                "slug": "ngouengoe-km251"
+              },
+              "code": {
+                "id": "KM251",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM252",
-              "iso": null
+              "name": {
+                "local": "Nioumagama",
+                "en": "Nioumagama",
+                "slug": "nioumagama-km252"
+              },
+              "code": {
+                "id": "KM252",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM26",
-        "name": {
-          "local": "Mitsamiouli-Mboudé",
-          "en": "Mitsamiouli-Mboudé",
-          "slug": "mitsamiouli-mboud-km26"
+          ]
         },
-        "code": {
+        {
           "id": "KM26",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM261",
-            "name": {
-              "local": "Cembenoi Lac Salé",
-              "en": "Cembenoi Lac Salé",
-              "slug": "cembenoi-lac-sal-km261"
-            },
-            "code": {
+          "name": {
+            "local": "Mitsamiouli-Mboudé",
+            "en": "Mitsamiouli-Mboudé",
+            "slug": "mitsamiouli-mboud-km26"
+          },
+          "code": {
+            "id": "KM26",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM261",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM262",
-            "name": {
-              "local": "Cembenoi Sada Djoulamlima",
-              "en": "Cembenoi Sada Djoulamlima",
-              "slug": "cembenoi-sada-djoulamlima-km262"
+              "name": {
+                "local": "Cembenoi Lac Salé",
+                "en": "Cembenoi Lac Salé",
+                "slug": "cembenoi-lac-sal-km261"
+              },
+              "code": {
+                "id": "KM261",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM262",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM263",
-            "name": {
-              "local": "Mitsamiouli",
-              "en": "Mitsamiouli",
-              "slug": "mitsamiouli-km263"
+              "name": {
+                "local": "Cembenoi Sada Djoulamlima",
+                "en": "Cembenoi Sada Djoulamlima",
+                "slug": "cembenoi-sada-djoulamlima-km262"
+              },
+              "code": {
+                "id": "KM262",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM263",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM264",
-            "name": {
-              "local": "Nyuma Komo",
-              "en": "Nyuma Komo",
-              "slug": "nyuma-komo-km264"
+              "name": {
+                "local": "Mitsamiouli",
+                "en": "Mitsamiouli",
+                "slug": "mitsamiouli-km263"
+              },
+              "code": {
+                "id": "KM263",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM264",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM265",
-            "name": {
-              "local": "Nyumamro Kiblani",
-              "en": "Nyumamro Kiblani",
-              "slug": "nyumamro-kiblani-km265"
+              "name": {
+                "local": "Nyuma Komo",
+                "en": "Nyuma Komo",
+                "slug": "nyuma-komo-km264"
+              },
+              "code": {
+                "id": "KM264",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM265",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM266",
-            "name": {
-              "local": "Nyumamro Souheili",
-              "en": "Nyumamro Souheili",
-              "slug": "nyumamro-souheili-km266"
+              "name": {
+                "local": "Nyumamro Kiblani",
+                "en": "Nyumamro Kiblani",
+                "slug": "nyumamro-kiblani-km265"
+              },
+              "code": {
+                "id": "KM265",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM266",
-              "iso": null
+              "name": {
+                "local": "Nyumamro Souheili",
+                "en": "Nyumamro Souheili",
+                "slug": "nyumamro-souheili-km266"
+              },
+              "code": {
+                "id": "KM266",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM27",
-        "name": {
-          "local": "Moroni-Bambao",
-          "en": "Moroni-Bambao",
-          "slug": "moroni-bambao-km27"
+          ]
         },
-        "code": {
+        {
           "id": "KM27",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM271",
-            "name": {
-              "local": "Bambao Ya Hari",
-              "en": "Bambao Ya Hari",
-              "slug": "bambao-ya-hari-km271"
-            },
-            "code": {
+          "name": {
+            "local": "Moroni-Bambao",
+            "en": "Moroni-Bambao",
+            "slug": "moroni-bambao-km27"
+          },
+          "code": {
+            "id": "KM27",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM271",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM272",
-            "name": {
-              "local": "Bambao Ya Mboini",
-              "en": "Bambao Ya Mboini",
-              "slug": "bambao-ya-mboini-km272"
+              "name": {
+                "local": "Bambao Ya Hari",
+                "en": "Bambao Ya Hari",
+                "slug": "bambao-ya-hari-km271"
+              },
+              "code": {
+                "id": "KM271",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM272",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM273",
-            "name": {
-              "local": "Bambao Yadjou",
-              "en": "Bambao Yadjou",
-              "slug": "bambao-yadjou-km273"
+              "name": {
+                "local": "Bambao Ya Mboini",
+                "en": "Bambao Ya Mboini",
+                "slug": "bambao-ya-mboini-km272"
+              },
+              "code": {
+                "id": "KM272",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM273",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM274",
-            "name": {
-              "local": "Moroni",
-              "en": "Moroni",
-              "slug": "moroni-km274"
+              "name": {
+                "local": "Bambao Yadjou",
+                "en": "Bambao Yadjou",
+                "slug": "bambao-yadjou-km273"
+              },
+              "code": {
+                "id": "KM273",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM274",
-              "iso": null
+              "name": {
+                "local": "Moroni",
+                "en": "Moroni",
+                "slug": "moroni-km274"
+              },
+              "code": {
+                "id": "KM274",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM28",
-        "name": {
-          "local": "Oichili-Dimani",
-          "en": "Oichili-Dimani",
-          "slug": "oichili-dimani-km28"
+          ]
         },
-        "code": {
+        {
           "id": "KM28",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM281",
-            "name": {
-              "local": "Dimani",
-              "en": "Dimani",
-              "slug": "dimani-km281"
-            },
-            "code": {
+          "name": {
+            "local": "Oichili-Dimani",
+            "en": "Oichili-Dimani",
+            "slug": "oichili-dimani-km28"
+          },
+          "code": {
+            "id": "KM28",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM281",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM282",
-            "name": {
-              "local": "Oichili Yadjou",
-              "en": "Oichili Yadjou",
-              "slug": "oichili-yadjou-km282"
+              "name": {
+                "local": "Dimani",
+                "en": "Dimani",
+                "slug": "dimani-km281"
+              },
+              "code": {
+                "id": "KM281",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM282",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM283",
-            "name": {
-              "local": "Oichili Yamboini",
-              "en": "Oichili Yamboini",
-              "slug": "oichili-yamboini-km283"
+              "name": {
+                "local": "Oichili Yadjou",
+                "en": "Oichili Yadjou",
+                "slug": "oichili-yadjou-km282"
+              },
+              "code": {
+                "id": "KM282",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM283",
-              "iso": null
+              "name": {
+                "local": "Oichili Yamboini",
+                "en": "Oichili Yamboini",
+                "slug": "oichili-yamboini-km283"
+              },
+              "code": {
+                "id": "KM283",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "KM3",
-    "name": {
-      "local": "Mohéli (Mwali)",
-      "en": "Mohéli (Mwali)",
-      "slug": "mohli-mwali-km3"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "KM3",
-      "iso": null
-    },
-    "prefecture": [
-      {
-        "id": "KM31",
-        "name": {
-          "local": "Djando",
-          "en": "Djando",
-          "slug": "djando-km31"
-        },
-        "code": {
+      "name": {
+        "local": "Mohéli (Mwali)",
+        "en": "Mohéli (Mwali)",
+        "slug": "mohli-mwali-km3"
+      },
+      "code": {
+        "id": "KM3",
+        "iso": null
+      },
+      "prefecture": [
+        {
           "id": "KM31",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM311",
-            "name": {
-              "local": "Djando",
-              "en": "Djando",
-              "slug": "djando-km311"
-            },
-            "code": {
+          "name": {
+            "local": "Djando",
+            "en": "Djando",
+            "slug": "djando-km31"
+          },
+          "code": {
+            "id": "KM31",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM311",
-              "iso": null
+              "name": {
+                "local": "Djando",
+                "en": "Djando",
+                "slug": "djando-km311"
+              },
+              "code": {
+                "id": "KM311",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM32",
-        "name": {
-          "local": "Fomboni",
-          "en": "Fomboni",
-          "slug": "fomboni-km32"
+          ]
         },
-        "code": {
+        {
           "id": "KM32",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM321",
-            "name": {
-              "local": "Fomboni",
-              "en": "Fomboni",
-              "slug": "fomboni-km321"
-            },
-            "code": {
+          "name": {
+            "local": "Fomboni",
+            "en": "Fomboni",
+            "slug": "fomboni-km32"
+          },
+          "code": {
+            "id": "KM32",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "KM321",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM322",
-            "name": {
-              "local": "Moili Mdjini",
-              "en": "Moili Mdjini",
-              "slug": "moili-mdjini-km322"
+              "name": {
+                "local": "Fomboni",
+                "en": "Fomboni",
+                "slug": "fomboni-km321"
+              },
+              "code": {
+                "id": "KM321",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM322",
-              "iso": null
-            }
-          },
-          {
-            "id": "KM323",
-            "name": {
-              "local": "Moimbassa",
-              "en": "Moimbassa",
-              "slug": "moimbassa-km323"
+              "name": {
+                "local": "Moili Mdjini",
+                "en": "Moili Mdjini",
+                "slug": "moili-mdjini-km322"
+              },
+              "code": {
+                "id": "KM322",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM323",
-              "iso": null
+              "name": {
+                "local": "Moimbassa",
+                "en": "Moimbassa",
+                "slug": "moimbassa-km323"
+              },
+              "code": {
+                "id": "KM323",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "KM33",
-        "name": {
-          "local": "Nioumachioi",
-          "en": "Nioumachioi",
-          "slug": "nioumachioi-km33"
+          ]
         },
-        "code": {
+        {
           "id": "KM33",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "KM331",
-            "name": {
-              "local": "Mlédjélé",
-              "en": "Mlédjélé",
-              "slug": "mldjl-km331"
-            },
-            "code": {
-              "id": "KM331",
-              "iso": null
-            }
+          "name": {
+            "local": "Nioumachioi",
+            "en": "Nioumachioi",
+            "slug": "nioumachioi-km33"
           },
-          {
-            "id": "KM332",
-            "name": {
-              "local": "Moimbao",
-              "en": "Moimbao",
-              "slug": "moimbao-km332"
+          "code": {
+            "id": "KM33",
+            "iso": null
+          },
+          "commune": [
+            {
+              "id": "KM331",
+              "name": {
+                "local": "Mlédjélé",
+                "en": "Mlédjélé",
+                "slug": "mldjl-km331"
+              },
+              "code": {
+                "id": "KM331",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "KM332",
-              "iso": null
+              "name": {
+                "local": "Moimbao",
+                "en": "Moimbao",
+                "slug": "moimbao-km332"
+              },
+              "code": {
+                "id": "KM332",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  }
-]
+          ]
+        }
+      ]
+    }
+  ]
+}

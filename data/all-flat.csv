@@ -1,21 +1,22 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.island,children_count.prefecture,children_count.commune,zip_codes,geo.lat,geo.lon
-KM1,1,Île,Island,Anjouan (Ndzouani),Anjouan (Ndzouani),anjouan-ndzouani-km1,KM1,,,,,,5,20,,-12.226,44.411
-KM11,2,Préfecture,Prefecture,Domoni,Domoni,domoni-km11,KM11,,KM1,Anjouan (Ndzouani),Anjouan (Ndzouani),,,5,,-12.179,44.498
-KM12,2,Préfecture,Prefecture,Mrémani,Mrémani,mrmani-km12,KM12,,KM1,Anjouan (Ndzouani),Anjouan (Ndzouani),,,5,,-12.33,44.501
-KM13,2,Préfecture,Prefecture,Mutsamudu,Mutsamudu,mutsamudu-km13,KM13,,KM1,Anjouan (Ndzouani),Anjouan (Ndzouani),,,4,,-12.183,44.408
-KM14,2,Préfecture,Prefecture,Ouani,Ouani,ouani-km14,KM14,,KM1,Anjouan (Ndzouani),Anjouan (Ndzouani),,,3,,-12.16,44.448
-KM15,2,Préfecture,Prefecture,Sima,Sima,sima-km15,KM15,,KM1,Anjouan (Ndzouani),Anjouan (Ndzouani),,,3,,-12.244,44.408
-KM2,1,Île,Island,Grande Comore (Ngazidja),Grande Comore (Ngazidja),grande-comore-ngazidja-km2,KM2,,,,,,9,29,,-11.652,43.331
-KM21,2,Préfecture,Prefecture,Hamahamet-Mboinkou,Hamahamet-Mboinkou,hamahamet-mboinkou-km21,KM21,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,3,,-11.482,43.374
-KM22,2,Préfecture,Prefecture,Hambou,Hambou,hambou-km22,KM22,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,2,,-11.815,43.315
-KM23,2,Préfecture,Prefecture,Itsandra-Hamanvou,Itsandra-Hamanvou,itsandra-hamanvou-km23,KM23,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,5,,-11.611,43.288
-KM24,2,Préfecture,Prefecture,Mbadjini Est,Mbadjini Est,mbadjini-est-km24,KM24,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,3,,-11.838,43.455
-KM25,2,Préfecture,Prefecture,Mbadjini Ouest,Mbadjini Ouest,mbadjini-ouest-km25,KM25,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,2,,-11.847,43.398
-KM26,2,Préfecture,Prefecture,Mitsamiouli-Mboudé,Mitsamiouli-Mboudé,mitsamiouli-mboud-km26,KM26,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,6,,-11.447,43.311
-KM27,2,Préfecture,Prefecture,Moroni-Bambao,Moroni-Bambao,moroni-bambao-km27,KM27,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,4,,-11.742,43.294
-KM28,2,Préfecture,Prefecture,Oichili-Dimani,Oichili-Dimani,oichili-dimani-km28,KM28,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,3,,-11.657,43.369
-KM29,2,Préfecture,Prefecture,Kartala,Kartala,kartala-km29,KM29,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,1,,-11.764,43.368
-KM3,1,Île,Island,Mohéli (Mwali),Mohéli (Mwali),mohli-mwali-km3,KM3,,,,,,3,6,,-12.32,43.721
-KM31,2,Préfecture,Prefecture,Djando,Djando,djando-km31,KM31,,KM3,Mohéli (Mwali),Mohéli (Mwali),,,1,,-12.357,43.815
-KM32,2,Préfecture,Prefecture,Fomboni,Fomboni,fomboni-km32,KM32,,KM3,Mohéli (Mwali),Mohéli (Mwali),,,3,,-12.295,43.723
-KM33,2,Préfecture,Prefecture,Nioumachioi,Nioumachioi,nioumachioi-km33,KM33,,KM3,Mohéli (Mwali),Mohéli (Mwali),,,2,,-12.323,43.682
+# Data from Open Admin Data (https://openadmindata.org/km/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/comoros-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.island,children_count.prefecture,children_count.commune,zip_codes,geo.lat,geo.lon,source_url
+KM1,1,Île,Island,Anjouan (Ndzouani),Anjouan (Ndzouani),anjouan-ndzouani-km1,KM1,,,,,,5,20,,-12.226,44.411,https://openadmindata.org/km/islands/anjouan-ndzouani-km1/
+KM11,2,Préfecture,Prefecture,Domoni,Domoni,domoni-km11,KM11,,KM1,Anjouan (Ndzouani),Anjouan (Ndzouani),,,5,,-12.179,44.498,
+KM12,2,Préfecture,Prefecture,Mrémani,Mrémani,mrmani-km12,KM12,,KM1,Anjouan (Ndzouani),Anjouan (Ndzouani),,,5,,-12.33,44.501,
+KM13,2,Préfecture,Prefecture,Mutsamudu,Mutsamudu,mutsamudu-km13,KM13,,KM1,Anjouan (Ndzouani),Anjouan (Ndzouani),,,4,,-12.183,44.408,
+KM14,2,Préfecture,Prefecture,Ouani,Ouani,ouani-km14,KM14,,KM1,Anjouan (Ndzouani),Anjouan (Ndzouani),,,3,,-12.16,44.448,
+KM15,2,Préfecture,Prefecture,Sima,Sima,sima-km15,KM15,,KM1,Anjouan (Ndzouani),Anjouan (Ndzouani),,,3,,-12.244,44.408,
+KM2,1,Île,Island,Grande Comore (Ngazidja),Grande Comore (Ngazidja),grande-comore-ngazidja-km2,KM2,,,,,,9,29,,-11.652,43.331,https://openadmindata.org/km/islands/grande-comore-ngazidja-km2/
+KM21,2,Préfecture,Prefecture,Hamahamet-Mboinkou,Hamahamet-Mboinkou,hamahamet-mboinkou-km21,KM21,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,3,,-11.482,43.374,
+KM22,2,Préfecture,Prefecture,Hambou,Hambou,hambou-km22,KM22,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,2,,-11.815,43.315,
+KM23,2,Préfecture,Prefecture,Itsandra-Hamanvou,Itsandra-Hamanvou,itsandra-hamanvou-km23,KM23,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,5,,-11.611,43.288,
+KM24,2,Préfecture,Prefecture,Mbadjini Est,Mbadjini Est,mbadjini-est-km24,KM24,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,3,,-11.838,43.455,
+KM25,2,Préfecture,Prefecture,Mbadjini Ouest,Mbadjini Ouest,mbadjini-ouest-km25,KM25,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,2,,-11.847,43.398,
+KM26,2,Préfecture,Prefecture,Mitsamiouli-Mboudé,Mitsamiouli-Mboudé,mitsamiouli-mboud-km26,KM26,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,6,,-11.447,43.311,
+KM27,2,Préfecture,Prefecture,Moroni-Bambao,Moroni-Bambao,moroni-bambao-km27,KM27,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,4,,-11.742,43.294,
+KM28,2,Préfecture,Prefecture,Oichili-Dimani,Oichili-Dimani,oichili-dimani-km28,KM28,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,3,,-11.657,43.369,
+KM29,2,Préfecture,Prefecture,Kartala,Kartala,kartala-km29,KM29,,KM2,Grande Comore (Ngazidja),Grande Comore (Ngazidja),,,1,,-11.764,43.368,
+KM3,1,Île,Island,Mohéli (Mwali),Mohéli (Mwali),mohli-mwali-km3,KM3,,,,,,3,6,,-12.32,43.721,https://openadmindata.org/km/islands/mohli-mwali-km3/
+KM31,2,Préfecture,Prefecture,Djando,Djando,djando-km31,KM31,,KM3,Mohéli (Mwali),Mohéli (Mwali),,,1,,-12.357,43.815,
+KM32,2,Préfecture,Prefecture,Fomboni,Fomboni,fomboni-km32,KM32,,KM3,Mohéli (Mwali),Mohéli (Mwali),,,3,,-12.295,43.723,
+KM33,2,Préfecture,Prefecture,Nioumachioi,Nioumachioi,nioumachioi-km33,KM33,,KM3,Mohéli (Mwali),Mohéli (Mwali),,,2,,-12.323,43.682,

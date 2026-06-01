@@ -3,7 +3,7 @@
 > 3 prefectures, 6 communes
 > Code: KM3
 > Coordinates: -12.32, 43.721
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Prefectures
 

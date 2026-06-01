@@ -26,5 +26,9 @@
     "lon": "43.721"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/km/islands/mohli-mwali-km3/",
+    "api": "https://openadmindata.org/api/km/"
+  }
 }
