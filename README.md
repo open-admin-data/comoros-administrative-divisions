@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/km](https://openadmindata.org/km/) |
 | API | [openadmindata.org/api/km](https://openadmindata.org/api/km/) |
+| National Anthem | [🎵 Listen & Download Comoros National Anthem MP3](https://onlygames.me/national-anthems/km/) |
 
 ## Browse by Island
 

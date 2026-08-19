@@ -3,7 +3,7 @@
 > 9 prefectures, 29 communes
 > Code: KM2
 > Coordinates: -11.652, 43.331
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Prefectures
 
