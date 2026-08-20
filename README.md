@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/km](https://openadmindata.org/km/) |
 | API | [openadmindata.org/api/km](https://openadmindata.org/api/km/) |
+| Flag | [PNG](https://onlygames.me/flags-png/km/) · [SVG](https://onlygames.me/flags-svg/km/) · [PDF](https://onlygames.me/flags-pdf/km/) |
 | National Anthem | [🎵 Listen & Download Comoros National Anthem MP3](https://onlygames.me/national-anthems/km/) |
 
 ## Browse by Island
